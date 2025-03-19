@@ -1,0 +1,927 @@
+PARTNER_ID,PRODUCT_CATEGORY,MAPE,Churn_Status
+0345M99-18534,commercial displays,0.07722656583792178,Going to be Churned
+0345M99-18534,commercial peripherals,0.1281682216906486,Going to be Churned
+0345M99-18534,commercial notebooks,0.11516006399228854,Not Churned
+0345M99-18534,mobile workstations,0.1555333679108486,Not Churned
+0345M99-18534,workstations,0.012090684490777368,Not Churned
+0345M99-18534,ps lifecycle services,0.037455388810961845,Going to be Churned
+0345M99-18534,cloud clients,0.11161270466204143,Not Churned
+0345M99-18534,commercial dockings,0.11881764496270228,Not Churned
+0345M99-18534,commercial desktops,0.15469240276964163,Not Churned
+0345M99-18534,home ink consumer printers,0.02127067664092007,Not Churned
+0345M99-18534,hps ink supplies,0.02705547641695047,Not Churned
+0345M99-18534,office non managed,0.027199547096862484,Going to be Churned
+0345M99-18534,ops toner supplies,0.008658832524637979,Not Churned
+0345M99-18534,hps toner supplies,0.02575882053075206,Not Churned
+0345M99-18534,office managed,0.03388520709181291,Going to be Churned
+0345M99-18534,home laser printers,0.07109914720537273,Not Churned
+0345M99-18534,print support services,0.05970091970311118,Not Churned
+0345M99-18534,office pagewide printers,0.015743769978162875,Not Churned
+0345M99-18534,ops ink supplies,0.018997330888845664,Not Churned
+0345M99-18534,home ink printers,0.017202300986236162,Not Churned
+0345M99-18534,large format design,0.023627104351682825,Not Churned
+0345M99-18534,ps manageability and security,0.0,Not Churned
+0345M99-18534,consumer gaming,0.008367891664858365,Not Churned
+0345M99-18534,scanners,0.0006794557877928001,Not Churned
+0345M99-18534,consumer displays,0.0006022639973999681,Not Churned
+0345M99-18534,managed print services,8.55951272732416e-05,Not Churned
+0345M99-18534,spts,0.008203820650370355,Not Churned
+0345M99-18534,consumer desktops,0.006286175070971934,Not Churned
+0345M99-18534,ps consumer transactional services,0.0024294213923513777,Not Churned
+0345M99-18534,consumer notebooks,0.0052079006622093174,Not Churned
+0345M99-18534,big tank,0.03641722482042674,Not Churned
+0345M99-18534,consumer peripherals,0.07927977191185304,Not Churned
+0345M99-19291,commercial displays,1.0428606190878503e-08,Not Churned
+0345M99-19291,commercial peripherals,0.07057797097291064,Not Churned
+0345M99-19291,commercial notebooks,0.015531269621139158,Not Churned
+0345M99-19291,mobile workstations,0.011962757255804791,Not Churned
+0345M99-19291,ps lifecycle services,0.018010597542726464,Not Churned
+0345M99-19291,commercial dockings,0.03536547719004518,Not Churned
+0345M99-19291,commercial desktops,0.0026626459735385253,Not Churned
+0345M99-19291,home ink consumer printers,0.02592019510903702,Going to be Churned
+0345M99-19291,hps ink supplies,0.01936236814447487,Not Churned
+0345M99-19291,office non managed,0.05918465458480633,Not Churned
+0345M99-19291,ops toner supplies,0.022945794420424707,Not Churned
+0345M99-19291,hps toner supplies,0.012541003779430543,Not Churned
+0345M99-19291,office managed,3.334523678667142e-08,Not Churned
+0345M99-19291,home laser printers,0.14624411246192426,Not Churned
+0345M99-19291,print support services,3.53403280890733e-08,Not Churned
+0345M99-19291,office pagewide printers,3.989920850387811e-08,Not Churned
+0345M99-19291,ops ink supplies,0.043041548045414685,Not Churned
+0345M99-19291,home ink printers,0.01860743702622531,Not Churned
+0345M99-19291,large format design,0.0090562283582709,Not Churned
+0345M99-19291,consumer gaming,0.0,Not Churned
+0345M99-19291,spts,1.9377997674474706e-08,Not Churned
+0345M99-19291,consumer notebooks,0.002644655590001206,Not Churned
+0345M99-19291,big tank,0.003928611524751364,Not Churned
+0345M99-19291,consumer peripherals,0.012106428532845957,Not Churned
+0345M99-19291,phs other,1.3316640253661619e-08,Not Churned
+0345M99-19396,commercial displays,0.040388939298593246,Not Churned
+0345M99-19396,commercial peripherals,1.2071826744981471e-08,Not Churned
+0345M99-19396,commercial notebooks,0.0002166749604450569,Not Churned
+0345M99-19396,workstations,0.01478798073214414,Not Churned
+0345M99-19396,ps lifecycle services,0.0005382521465171028,Not Churned
+0345M99-19396,commercial dockings,0.002114943484042398,Not Churned
+0345M99-19396,commercial desktops,0.03331400448050326,Not Churned
+0345M99-19396,home ink consumer printers,0.03704576442749466,Not Churned
+0345M99-19396,office non managed,0.01853476439003301,Not Churned
+0345M99-19396,office managed,4.7971042420888197e-08,Not Churned
+0345M99-19396,home laser printers,0.1632596640134809,Not Churned
+0345M99-19396,home ink printers,0.31258295538354686,Not Churned
+0345M99-19396,scanners,0.025785313373925096,Not Churned
+0345M99-19396,consumer displays,0.030184873004309887,Not Churned
+0345M99-19396,consumer desktops,0.04521250419984797,Not Churned
+0345M99-19396,ps consumer transactional services,9.848615936932272e-09,Not Churned
+0345M99-19396,consumer notebooks,3.421256901808704e-08,Not Churned
+0345M99-19396,big tank,0.05597200061651015,Not Churned
+0345MDH-10365,commercial displays,0.05916748275320279,Not Churned
+0345MDH-10365,commercial peripherals,0.17596634167365793,Not Churned
+0345MDH-10365,commercial notebooks,0.057657783881294195,Going to be Churned
+0345MDH-10365,mobile workstations,0.016033960556277982,Not Churned
+0345MDH-10365,workstations,0.02084025601205755,Going to be Churned
+0345MDH-10365,ps lifecycle services,0.04071770380791429,Not Churned
+0345MDH-10365,commercial dockings,0.010345240188743972,Not Churned
+0345MDH-10365,commercial desktops,0.04885460414611446,Not Churned
+0345MDH-10365,home ink consumer printers,0.033761015175749906,Not Churned
+0345MDH-10365,hps ink supplies,0.011648041385215586,Not Churned
+0345MDH-10365,office non managed,0.06368109571334127,Not Churned
+0345MDH-10365,ops toner supplies,0.017349659853127523,Not Churned
+0345MDH-10365,hps toner supplies,0.015911056968916874,Not Churned
+0345MDH-10365,office managed,0.044445292737560184,Not Churned
+0345MDH-10365,home laser printers,0.023405274116293243,Going to be Churned
+0345MDH-10365,print support services,0.005084767095991298,Not Churned
+0345MDH-10365,office pagewide printers,0.03049655876152203,Not Churned
+0345MDH-10365,ops ink supplies,0.012594534420787265,Not Churned
+0345MDH-10365,home ink printers,0.02569851191550769,Not Churned
+0345MDH-10365,large format design,0.010594217690933312,Not Churned
+0345MDH-10365,scanners,0.014024705466522085,Not Churned
+0345MDH-10365,consumer displays,0.0006588258189807291,Not Churned
+0345MDH-10365,spts,0.01258290046797316,Not Churned
+0345MDH-10365,consumer desktops,5.4988691443531744e-08,Not Churned
+0345MDH-10365,consumer peripherals,0.03434971295586173,Not Churned
+1-10LZ6-13770,commercial displays,0.03152249716617743,Not Churned
+1-10LZ6-13770,commercial peripherals,0.9983097144951093,Going to be Churned
+1-10LZ6-13770,commercial notebooks,0.10200289262207156,Going to be Churned
+1-10LZ6-13770,mobile workstations,0.0007150321216168933,Not Churned
+1-10LZ6-13770,workstations,0.03585726022732374,Going to be Churned
+1-10LZ6-13770,ps lifecycle services,0.18809674468100274,Going to be Churned
+1-10LZ6-13770,cloud clients,4.239829162576598e-08,Not Churned
+1-10LZ6-13770,commercial dockings,0.21891776132970325,Going to be Churned
+1-10LZ6-13770,commercial desktops,0.026933949195839017,Not Churned
+1-10LZ6-13770,home ink consumer printers,0.004913144910502377,Not Churned
+1-10LZ6-13770,hps ink supplies,0.013151642276745647,Not Churned
+1-10LZ6-13770,office non managed,0.027511557724329443,Not Churned
+1-10LZ6-13770,ops toner supplies,0.013653994113400727,Not Churned
+1-10LZ6-13770,hps toner supplies,0.0433200623781803,Not Churned
+1-10LZ6-13770,office managed,0.024236493091885476,Going to be Churned
+1-10LZ6-13770,home laser printers,0.016030164365240875,Not Churned
+1-10LZ6-13770,print support services,0.13019944270139405,Not Churned
+1-10LZ6-13770,office pagewide printers,0.048519480012492185,Going to be Churned
+1-10LZ6-13770,ops ink supplies,0.22937253903824614,Not Churned
+1-10LZ6-13770,home ink printers,0.013995657332929757,Not Churned
+1-10LZ6-13770,large format design,0.037498672955200256,Not Churned
+1-10LZ6-13770,consumer gaming,0.007871684152101021,Not Churned
+1-10LZ6-13770,scanners,0.15914330246423405,Going to be Churned
+1-10LZ6-13770,consumer displays,0.004844373924122444,Not Churned
+1-10LZ6-13770,managed print services,0.020253802757779757,Not Churned
+1-10LZ6-13770,consumer desktops,0.00013583420604712827,Not Churned
+1-10LZ6-13770,ps consumer transactional services,0.006628699336491578,Not Churned
+1-10LZ6-13770,consumer notebooks,0.011721193040222042,Not Churned
+1-10LZ6-13770,big tank,4.312676651251964e-08,Not Churned
+1-10LZ6-13770,consumer peripherals,0.07716708679251236,Not Churned
+1-10LZ6-13770,commercial third party options,0.0026993876777170545,Not Churned
+1-10LZ6-15843,commercial displays,0.05363642088009085,Not Churned
+1-10LZ6-15843,commercial notebooks,0.00303768224753908,Not Churned
+1-10LZ6-15843,workstations,0.0,Not Churned
+1-10LZ6-15843,ps lifecycle services,0.04267480786117335,Not Churned
+1-10LZ6-15843,commercial desktops,0.00022197094766000043,Not Churned
+1-10LZ6-15843,hps ink supplies,0.05614249204384538,Not Churned
+1-10LZ6-15843,office non managed,0.007506632984768214,Not Churned
+1-10LZ6-15843,ops toner supplies,0.06392663023344992,Not Churned
+1-10LZ6-15843,hps toner supplies,0.0955906779934397,Not Churned
+1-10LZ6-15843,office managed,0.0017364989133100623,Not Churned
+1-10LZ6-15843,home laser printers,0.24846518127720366,Going to be Churned
+1-10LZ6-15843,print support services,0.01097220173396447,Not Churned
+1-10LZ6-15843,ops ink supplies,0.02428770675993418,Not Churned
+1-10LZ6-15843,home ink printers,0.049900348036087026,Not Churned
+1-10LZ6-15843,large format design,0.012381649275825265,Not Churned
+1-10LZ6-15843,consumer gaming,0.00919603516351794,Not Churned
+1-10LZ6-15843,scanners,0.05400726351471937,Not Churned
+1-10LZ6-15843,consumer displays,0.03259992140304444,Not Churned
+1-10LZ6-15843,managed print services,2.0244552292870797e-08,Not Churned
+1-10LZ6-15843,ps consumer transactional services,0.0,Not Churned
+1-10LZ6-15843,consumer notebooks,0.05102182857304144,Not Churned
+1-10LZ6-15843,big tank,1.7708673273891513e-08,Not Churned
+1-S20K-124,commercial notebooks,0.059466054770722795,Going to be Churned
+1-S20K-124,commercial desktops,0.4464738240484961,Not Churned
+1-S20K-124,home ink consumer printers,0.05070494084541364,Going to be Churned
+1-S20K-124,hps ink supplies,0.02957281713052483,Not Churned
+1-S20K-124,office non managed,0.047082482009227836,Not Churned
+1-S20K-124,ops toner supplies,0.06555775916946519,Not Churned
+1-S20K-124,hps toner supplies,0.026723082281141817,Not Churned
+1-S20K-124,home laser printers,0.03040347771014749,Not Churned
+1-S20K-124,ops ink supplies,0.0358961061049936,Not Churned
+1-S20K-124,home ink printers,0.05266282972078241,Not Churned
+1-S20K-124,large format design,0.027518288763055496,Not Churned
+1-S20K-124,scanners,0.0675548652857263,Going to be Churned
+1-S20K-124,big tank,0.03885764955279963,Not Churned
+1-S20K-124,large format production,0.00042439313551241424,Not Churned
+1-YSTYH9,commercial displays,1.9101613713047398,Not Churned
+1-YSTYH9,commercial peripherals,0.07881069183349623,Not Churned
+1-YSTYH9,commercial notebooks,7.684463170891654,Going to be Churned
+1-YSTYH9,mobile workstations,0.026054741736382937,Not Churned
+1-YSTYH9,workstations,0.01615737845332926,Not Churned
+1-YSTYH9,ps lifecycle services,0.002565493174508098,Not Churned
+1-YSTYH9,commercial dockings,1.519799701758623e-08,Not Churned
+1-YSTYH9,commercial desktops,0.008442292627235552,Not Churned
+1-YSTYH9,office non managed,0.01947625521782775,Not Churned
+1-YSTYH9,ops toner supplies,0.020883187091971317,Not Churned
+1-YSTYH9,hps toner supplies,0.07787820293875232,Not Churned
+1-YSTYH9,office managed,0.04819549742099544,Not Churned
+1-YSTYH9,home laser printers,0.02071962069930177,Not Churned
+1-YSTYH9,office pagewide printers,2.9458010343865788e-08,Not Churned
+1-YSTYH9,ops ink supplies,0.0033290620662576173,Not Churned
+1-YSTYH9,consumer gaming,0.0010049923910012257,Not Churned
+1-YSTYH9,consumer displays,0.004686508873337948,Not Churned
+1-YSTYH9,spts,1.3193937748081781e-08,Not Churned
+1-YSTYH9,consumer notebooks,1.2539967395725183e-08,Not Churned
+1-YSTYH9,consumer peripherals,0.03939721257227281,Not Churned
+123HSE4-9637,commercial peripherals,0.43133652031337827,Not Churned
+123HSE4-9637,commercial notebooks,0.008225382979681336,Not Churned
+123HSE4-9637,mobile workstations,0.016219890425277623,Not Churned
+123HSE4-9637,workstations,0.004444922658794205,Not Churned
+123HSE4-9637,ps lifecycle services,0.008427432177913497,Not Churned
+123HSE4-9637,cloud clients,0.1629767976339654,Not Churned
+123HSE4-9637,commercial dockings,0.03255479428602085,Not Churned
+123HSE4-9637,commercial desktops,0.02493045111447764,Not Churned
+123HSE4-9637,hps ink supplies,0.04423673995528746,Going to be Churned
+123HSE4-9637,office non managed,1.1737659634360313,Not Churned
+123HSE4-9637,ops toner supplies,0.013086864081500567,Not Churned
+123HSE4-9637,hps toner supplies,0.01341911190857789,Not Churned
+123HSE4-9637,office managed,0.011891269644923558,Not Churned
+123HSE4-9637,home laser printers,0.0060660196127320055,Not Churned
+123HSE4-9637,print support services,0.05675055226918762,Going to be Churned
+123HSE4-9637,office pagewide printers,0.03193352730842023,Not Churned
+123HSE4-9637,ops ink supplies,0.0116358365428336,Not Churned
+123HSE4-9637,home ink printers,0.39178191171827087,Not Churned
+123HSE4-9637,large format design,0.0158874330421536,Not Churned
+123HSE4-9637,scanners,0.020852333085707848,Not Churned
+123HSE4-9637,consumer displays,0.0008638769779583616,Not Churned
+123HSE4-9637,managed print services,0.0519810206101199,Not Churned
+123HSE4-9637,big tank,0.0014690490758206716,Not Churned
+123HSE4-9637,commercial displays (l5),0.0578411586588998,Going to be Churned
+123HSGW-6484,hps ink supplies,0.025694161036212932,Not Churned
+123HSGW-6484,office non managed,1.9839153683355575e-08,Not Churned
+123HSGW-6484,ops toner supplies,0.01904370922124628,Not Churned
+123HSGW-6484,hps toner supplies,0.003701496533948562,Not Churned
+123HSGW-6484,office managed,0.17138211371861975,Going to be Churned
+123HSGW-6484,ops ink supplies,0.015816754970554563,Not Churned
+123HSGW-6484,home ink printers,0.03435192937164504,Not Churned
+123HSGW-6484,large format design,0.008150405338817212,Not Churned
+123HSGW-6484,scanners,5.6440869527319596e-09,Not Churned
+123HSGW-6484,spts,0.03370188228777449,Not Churned
+123HSIB-19739,commercial peripherals,0.049619123484523756,Not Churned
+123HSIB-19739,commercial notebooks,0.01783910205622138,Going to be Churned
+123HSIB-19739,mobile workstations,0.24606333231447738,Not Churned
+123HSIB-19739,workstations,0.44255827051810687,Going to be Churned
+123HSIB-19739,ps lifecycle services,0.0189040632398561,Not Churned
+123HSIB-19739,cloud clients,0.006500756456998623,Not Churned
+123HSIB-19739,commercial dockings,0.05387781930680209,Going to be Churned
+123HSIB-19739,commercial desktops,0.007900838366680056,Not Churned
+123HSIB-19739,hps ink supplies,0.010533613652764146,Not Churned
+123HSIB-19739,office non managed,0.023848396569892665,Not Churned
+123HSIB-19739,ops toner supplies,0.04025815532209554,Not Churned
+123HSIB-19739,hps toner supplies,0.010854042880443534,Not Churned
+123HSIB-19739,office managed,0.08650752260108108,Not Churned
+123HSIB-19739,home laser printers,0.29326984145668383,Not Churned
+123HSIB-19739,print support services,0.042475836954014294,Going to be Churned
+123HSIB-19739,office pagewide printers,0.04106736816636751,Not Churned
+123HSIB-19739,ops ink supplies,0.02418652010973423,Not Churned
+123HSIB-19739,home ink printers,1.7441131777334333,Not Churned
+123HSIB-19739,large format design,6.423739020874958e-09,Not Churned
+123HSIB-19739,scanners,0.005535529239137753,Not Churned
+123HSIB-19739,consumer notebooks,0.1645056694584564,Not Churned
+123HSIB-19739,big tank,0.5585883579547101,Not Churned
+123HSIB-19739,consumer peripherals,8.553132890532989e-09,Not Churned
+123HSIB-19739,commercial displays (l5),0.07195969759716006,Not Churned
+123HSIB-19739,ps managed services,0.0018886809677031125,Not Churned
+123HSIB-19739,psg retail solutions,0.3475591611141682,Not Churned
+123HSIP-5318,commercial peripherals,0.3195647555273279,Going to be Churned
+123HSIP-5318,commercial notebooks,0.03506391089394568,Not Churned
+123HSIP-5318,mobile workstations,0.010343941875906055,Not Churned
+123HSIP-5318,workstations,0.06632718376849756,Not Churned
+123HSIP-5318,ps lifecycle services,0.01623795472761513,Not Churned
+123HSIP-5318,cloud clients,0.00010517661670096259,Not Churned
+123HSIP-5318,commercial dockings,0.5408876358250885,Not Churned
+123HSIP-5318,commercial desktops,0.11538223407286967,Going to be Churned
+123HSIP-5318,hps ink supplies,0.03923082840093962,Going to be Churned
+123HSIP-5318,office non managed,0.6417326118846164,Going to be Churned
+123HSIP-5318,ops toner supplies,0.010962534554687996,Not Churned
+123HSIP-5318,hps toner supplies,0.02791058732021409,Not Churned
+123HSIP-5318,office managed,0.07053774493730824,Not Churned
+123HSIP-5318,home laser printers,0.03748848537851323,Not Churned
+123HSIP-5318,print support services,0.03582056053237925,Not Churned
+123HSIP-5318,office pagewide printers,0.4455257700450384,Not Churned
+123HSIP-5318,ops ink supplies,0.010608750223188787,Not Churned
+123HSIP-5318,home ink printers,0.33712965166732045,Not Churned
+123HSIP-5318,large format design,0.016572823243836115,Not Churned
+123HSIP-5318,scanners,0.20724800339773958,Going to be Churned
+123HSIP-5318,managed print services,1.1886237626926528,Not Churned
+123HSIP-5318,consumer notebooks,2.021198974174231e-08,Not Churned
+123HSIP-5318,big tank,0.3115208402050714,Going to be Churned
+123HSIP-5318,consumer peripherals,2.7746856262295e-08,Not Churned
+123HSIP-5318,commercial third party options,0.05552120734575694,Going to be Churned
+123HSIP-5318,commercial displays (l5),0.010982485958526439,Not Churned
+123HSIP-5318,ps managed services,0.003968761594616726,Going to be Churned
+2-15QO7YP,commercial peripherals,0.04613541861333189,Not Churned
+2-15QO7YP,commercial notebooks,0.04327457550353439,Going to be Churned
+2-15QO7YP,mobile workstations,3.646846489272874e-08,Not Churned
+2-15QO7YP,workstations,0.02341796376106822,Not Churned
+2-15QO7YP,ps lifecycle services,0.022088526475288115,Not Churned
+2-15QO7YP,cloud clients,2.412099246429617e-08,Not Churned
+2-15QO7YP,commercial desktops,0.0009624299251672682,Not Churned
+2-15QO7YP,hps ink supplies,0.08370043008068527,Not Churned
+2-15QO7YP,office non managed,0.006236562379528612,Not Churned
+2-15QO7YP,ops toner supplies,0.053211135844314854,Going to be Churned
+2-15QO7YP,hps toner supplies,7.168799190373905e-09,Not Churned
+2-15QO7YP,office managed,0.0026555462277908265,Not Churned
+2-15QO7YP,home laser printers,0.017605055097542593,Not Churned
+2-15QO7YP,print support services,2.4264699752214384e-08,Not Churned
+2-15QO7YP,office pagewide printers,8.580097016954432e-05,Not Churned
+2-15QO7YP,ops ink supplies,3.310493579136563e-08,Not Churned
+2-15QO7YP,home ink printers,0.06375878374547575,Not Churned
+2-15QO7YP,large format design,1.8692337806485362e-08,Not Churned
+2-15QO7YP,consumer gaming,1.7565337368911813e-08,Not Churned
+2-15QO7YP,scanners,0.01352968751040847,Not Churned
+2-15QO7YP,consumer displays,0.004429919718089456,Not Churned
+2-15QO7YP,consumer notebooks,0.002649792595273893,Not Churned
+2-15QO7YP,big tank,0.02014960493367666,Not Churned
+2-15QO7YP,consumer peripherals,0.07734982503489493,Not Churned
+2-15QO7YP,commercial third party options,0.000911661874116117,Not Churned
+2-15QO7YP,commercial displays (l5),0.0010788974643977291,Not Churned
+2-19AYBTB,commercial peripherals,0.16936650228773703,Going to be Churned
+2-19AYBTB,commercial notebooks,0.019465158412147406,Not Churned
+2-19AYBTB,commercial desktops,0.04556647419939582,Not Churned
+2-19AYBTB,hps ink supplies,0.015556409601706204,Not Churned
+2-19AYBTB,office non managed,0.60393839857958,Going to be Churned
+2-19AYBTB,ops toner supplies,0.8353485378132379,Going to be Churned
+2-19AYBTB,hps toner supplies,0.035013349725326375,Not Churned
+2-19AYBTB,home laser printers,0.043566475707952315,Going to be Churned
+2-19AYBTB,home ink printers,0.0007150216277208479,Not Churned
+2-19AYBTB,large format design,0.7553424073666516,Going to be Churned
+2-19AYBTB,scanners,0.7081662348396427,Going to be Churned
+2-19AYBTB,consumer desktops,2.1364441080448966e-08,Not Churned
+2-19AYBTB,consumer notebooks,1.9216168902091924e-08,Not Churned
+2-19AYBTB,big tank,0.014880326157065055,Not Churned
+2-19AYBTB,commercial displays (l5),1.9526620993251538,Not Churned
+2-SISC-24215,commercial peripherals,0.09780077561520735,Not Churned
+2-SISC-24215,commercial notebooks,0.09822046677012193,Not Churned
+2-SISC-24215,mobile workstations,0.00257841852494265,Not Churned
+2-SISC-24215,workstations,0.021025202714388028,Not Churned
+2-SISC-24215,ps lifecycle services,0.014180342012310453,Not Churned
+2-SISC-24215,commercial desktops,0.1258824444232606,Going to be Churned
+2-SISC-24215,hps ink supplies,0.038065017261159614,Not Churned
+2-SISC-24215,office non managed,0.06038025959903268,Going to be Churned
+2-SISC-24215,ops toner supplies,0.0810977065086477,Not Churned
+2-SISC-24215,hps toner supplies,0.42918281254215634,Going to be Churned
+2-SISC-24215,office managed,0.018277632974731086,Not Churned
+2-SISC-24215,home laser printers,0.039191621968408724,Not Churned
+2-SISC-24215,print support services,0.11335830119707717,Going to be Churned
+2-SISC-24215,ops ink supplies,0.005114257091497878,Not Churned
+2-SISC-24215,home ink printers,0.1677661401781398,Not Churned
+2-SISC-24215,large format design,0.4044434025620289,Going to be Churned
+2-SISC-24215,consumer gaming,0.011048204745493515,Not Churned
+2-SISC-24215,scanners,0.1796286592554672,Going to be Churned
+2-SISC-24215,consumer displays,0.027880760952997918,Going to be Churned
+2-SISC-24215,consumer desktops,0.07337751850258746,Going to be Churned
+2-SISC-24215,ps consumer transactional services,2.2513890190646778e-08,Not Churned
+2-SISC-24215,consumer notebooks,0.008398503995961839,Not Churned
+2-SISC-24215,big tank,0.04103096547951672,Not Churned
+2-SISC-24215,consumer peripherals,0.22996961833900867,Going to be Churned
+2-SISC-24215,commercial third party options,2.729658153257755e-08,Not Churned
+2-SISC-24215,commercial displays (l5),0.08007714950295479,Going to be Churned
+2-SISC-24215,ps managed services,0.00031287300983101184,Not Churned
+2-SISC-7587,commercial peripherals,1.7642974853515625e-05,Not Churned
+2-SISC-7587,commercial notebooks,0.01113210062020019,Not Churned
+2-SISC-7587,workstations,2.5351817771217456e-09,Not Churned
+2-SISC-7587,ps lifecycle services,0.0002525637424448719,Not Churned
+2-SISC-7587,commercial desktops,0.05388836963939138,Not Churned
+2-SISC-7587,hps ink supplies,0.37864988529344434,Not Churned
+2-SISC-7587,office non managed,0.02348184050383686,Not Churned
+2-SISC-7587,ops toner supplies,0.04916711504974659,Not Churned
+2-SISC-7587,hps toner supplies,1.556306978162489,Not Churned
+2-SISC-7587,office managed,0.04562624808559649,Going to be Churned
+2-SISC-7587,home laser printers,0.01726441872836451,Not Churned
+2-SISC-7587,print support services,0.18958009029798048,Not Churned
+2-SISC-7587,ops ink supplies,0.44478905312873,Not Churned
+2-SISC-7587,home ink printers,0.0021024880299632233,Not Churned
+2-SISC-7587,large format design,0.02724974381956817,Not Churned
+2-SISC-7587,scanners,0.03421089176864105,Not Churned
+2-SISC-7587,consumer notebooks,0.042551475764042786,Not Churned
+2-SISC-7587,consumer peripherals,0.029135322317575426,Not Churned
+2-SISC-7587,commercial displays (l5),0.08912680761765668,Not Churned
+2-SISC-8202,commercial peripherals,0.03216540436013547,Not Churned
+2-SISC-8202,commercial notebooks,0.04856658284543343,Going to be Churned
+2-SISC-8202,mobile workstations,0.009825427243699775,Not Churned
+2-SISC-8202,workstations,0.002534768569100576,Not Churned
+2-SISC-8202,ps lifecycle services,0.08167624839263951,Going to be Churned
+2-SISC-8202,cloud clients,2.2772519674803925e-08,Not Churned
+2-SISC-8202,commercial desktops,0.027281146180278045,Not Churned
+2-SISC-8202,hps ink supplies,0.14538018646375747,Not Churned
+2-SISC-8202,office non managed,1.3095356220766916,Not Churned
+2-SISC-8202,ops toner supplies,0.06661546004031366,Not Churned
+2-SISC-8202,hps toner supplies,0.027571431799280937,Not Churned
+2-SISC-8202,home laser printers,0.042014572931455205,Not Churned
+2-SISC-8202,print support services,4.45338474850841e-08,Not Churned
+2-SISC-8202,ops ink supplies,0.004583107121347077,Not Churned
+2-SISC-8202,large format design,0.020209433317954238,Not Churned
+2-SISC-8202,scanners,1.3385636498190984e-08,Not Churned
+2-SISC-8202,consumer displays,0.04571841206884882,Not Churned
+2-SISC-8202,big tank,0.023370372556022142,Not Churned
+2-SISC-8202,consumer peripherals,0.0076039503338503,Not Churned
+2-SISC-8202,commercial third party options,0.00017525208127247644,Not Churned
+2-SISC-8202,commercial displays (l5),0.04890010437427253,Not Churned
+2-SIUD-2228,commercial peripherals,0.0002097590641149871,Not Churned
+2-SIUD-2228,commercial notebooks,0.2137939045994949,Not Churned
+2-SIUD-2228,commercial desktops,0.05528246877964993,Going to be Churned
+2-SIUD-2228,hps ink supplies,0.07751662400336055,Not Churned
+2-SIUD-2228,office non managed,0.004447670240142088,Not Churned
+2-SIUD-2228,ops toner supplies,0.018151016486246074,Not Churned
+2-SIUD-2228,hps toner supplies,0.012401495757069626,Not Churned
+2-SIUD-2228,office managed,0.00011249009712236213,Not Churned
+2-SIUD-2228,ops ink supplies,0.004468862483898226,Not Churned
+2-SIUD-2228,large format design,1.0702914864358472e-08,Not Churned
+2-SIUD-2228,commercial displays (l5),0.06871976309060103,Going to be Churned
+2-SIVP-12151,commercial peripherals,0.015570251133530106,Going to be Churned
+2-SIVP-12151,commercial notebooks,25.96128444580712,Going to be Churned
+2-SIVP-12151,mobile workstations,0.033758545455495476,Not Churned
+2-SIVP-12151,workstations,0.028089064219989624,Not Churned
+2-SIVP-12151,ps lifecycle services,0.07428454039372474,Not Churned
+2-SIVP-12151,cloud clients,1.1622423366056062e-08,Not Churned
+2-SIVP-12151,commercial desktops,0.20129404009926916,Not Churned
+2-SIVP-12151,office non managed,0.33636803074478683,Not Churned
+2-SIVP-12151,office managed,2.321737271637966e-08,Not Churned
+2-SIVP-12151,home laser printers,0.0014249364710064107,Not Churned
+2-SIVP-12151,large format design,1.6703655178606e-08,Not Churned
+2-SIVP-12151,consumer displays,0.0012206517352469513,Not Churned
+2-SIVP-12151,commercial displays (l5),0.05002538764577966,Not Churned
+2-SIVP-21163,hps ink supplies,0.010004105582473229,Not Churned
+2-SIVP-21163,ops toner supplies,0.02835046094276546,Not Churned
+2-SIVP-21163,hps toner supplies,1.124807838777297,Not Churned
+2-SIVP-21163,ops ink supplies,0.015490896199746109,Not Churned
+2-SIVP-21163,large format design,4.61565810003085e-09,Not Churned
+2-SIVP-24,commercial peripherals,0.04150884763328108,Not Churned
+2-SIVP-24,commercial notebooks,0.18094477523169777,Not Churned
+2-SIVP-24,mobile workstations,0.07719591646633557,Going to be Churned
+2-SIVP-24,workstations,0.10500484941687833,Going to be Churned
+2-SIVP-24,ps lifecycle services,0.11565650498151853,Not Churned
+2-SIVP-24,cloud clients,0.0003484681595203488,Not Churned
+2-SIVP-24,commercial dockings,2.6575774923266734e-06,Not Churned
+2-SIVP-24,commercial desktops,0.06906227816055918,Not Churned
+2-SIVP-24,hps ink supplies,0.0763947085486948,Not Churned
+2-SIVP-24,office non managed,0.0,Not Churned
+2-SIVP-24,ops toner supplies,0.08246807580540376,Going to be Churned
+2-SIVP-24,office managed,1.908243123553023e-08,Not Churned
+2-SIVP-24,print support services,0.002313571760228866,Not Churned
+2-SIVP-24,office pagewide printers,0.0005907855442006851,Not Churned
+2-SIVP-24,ops ink supplies,0.021156381535165126,Not Churned
+2-SIVP-24,home ink printers,0.019804246635816935,Not Churned
+2-SIVP-24,large format design,0.01623652292579427,Not Churned
+2-SIVP-24,consumer gaming,0.042448252800225815,Going to be Churned
+2-SIVP-24,consumer displays,0.024173848025199025,Not Churned
+2-SIVP-24,spts,0.0008573932807986178,Not Churned
+2-SIVP-24,consumer desktops,0.048441781040544606,Not Churned
+2-SIVP-24,ps consumer transactional services,0.2627190215553764,Going to be Churned
+2-SIVP-24,consumer notebooks,0.021082476630701074,Not Churned
+2-SIVP-24,consumer peripherals,0.020986502315658687,Not Churned
+2-SIVP-24,commercial third party options,0.07866416021029736,Not Churned
+2-SIVP-24,commercial displays (l5),0.06054717589820101,Not Churned
+2-SIVP-24,ps managed services,0.0032346911444928093,Not Churned
+2-SIVP-24,psg retail solutions,0.009963298212044714,Not Churned
+2-SIVP-24,ps digital services,0.027421045497938275,Going to be Churned
+2-SIVP-3218,hps ink supplies,0.034321328607394494,Not Churned
+2-SIVP-3218,ops toner supplies,0.013805629144305382,Not Churned
+2-SIVP-3218,hps toner supplies,0.01960653622938676,Not Churned
+2-SIVP-3218,home laser printers,7.666770042311699e-09,Not Churned
+2-SIVP-3218,ops ink supplies,0.0394097070692097,Not Churned
+2-SIVP-3218,large format design,0.031959048364637276,Not Churned
+2-SIVP-3218,commercial displays (l5),4.3177104474927805e-09,Not Churned
+2-SIVP-6899,hps ink supplies,0.011276714262440209,Not Churned
+2-SIVP-6899,office non managed,2.984781750062577,Not Churned
+2-SIVP-6899,ops toner supplies,0.02437192356994581,Not Churned
+2-SIVP-6899,hps toner supplies,0.016936387310255742,Not Churned
+2-SIVP-6899,home laser printers,0.4513712252457583,Going to be Churned
+2-SIVP-6899,print support services,4.679957604587983e-08,Not Churned
+2-SIVP-6899,ops ink supplies,0.06260527863668526,Not Churned
+2-SIVP-6899,home ink printers,2.699744772733154e-09,Not Churned
+2-SIVP-6899,large format design,0.012948774696118756,Not Churned
+2-SIVP-6899,spts,0.02753022955689016,Not Churned
+2-SIWB-16006,commercial peripherals,1.4076373687002633e-08,Not Churned
+2-SIWB-16006,commercial notebooks,0.0,Not Churned
+2-SIWB-16006,ps lifecycle services,0.0012441773522041415,Not Churned
+2-SIWB-16006,commercial dockings,2.5634252963814955e-08,Not Churned
+2-SIWB-16006,commercial desktops,0.00010118065099187379,Not Churned
+2-SIWB-16006,hps ink supplies,0.09218992823774869,Not Churned
+2-SIWB-16006,ops toner supplies,0.02378837020392282,Not Churned
+2-SIWB-16006,hps toner supplies,0.07660102412119715,Not Churned
+2-SIWB-16006,office managed,0.0011506394505764023,Going to be Churned
+2-SIWB-16006,print support services,0.02392637423434793,Going to be Churned
+2-SIWB-16006,ops ink supplies,0.02634874746520404,Going to be Churned
+2-SIWB-16006,large format design,0.053739778872875,Not Churned
+2-SIYA-5121,commercial notebooks,3.76739081956227e-08,Not Churned
+2-SIYA-5121,commercial desktops,0.027778051786793233,Going to be Churned
+2-SIYA-5121,hps ink supplies,0.022790555415342806,Not Churned
+2-SIYA-5121,office non managed,0.16076522199494472,Not Churned
+2-SIYA-5121,ops toner supplies,0.0303270683775458,Not Churned
+2-SIYA-5121,hps toner supplies,0.9256806411144578,Not Churned
+2-SIYA-5121,home laser printers,0.17362690132984854,Not Churned
+2-SIYA-5121,ops ink supplies,0.049065030026826155,Not Churned
+2-SIYA-5121,consumer displays,0.002942936814399259,Not Churned
+2-SIYA-5121,consumer desktops,0.0011354443448984796,Not Churned
+2-SIYA-5121,consumer notebooks,2.1483057392488806e-08,Not Churned
+2-SIYA-5121,consumer peripherals,1.712546473255988e-08,Not Churned
+2-SIYA-5121,commercial displays (l5),0.03619536312204296,Not Churned
+2-SIYA-8895,commercial peripherals,3.2669495619839204e-08,Not Churned
+2-SIYA-8895,commercial notebooks,1.7719256543407876e-08,Not Churned
+2-SIYA-8895,mobile workstations,1.4901161138336505e-08,Not Churned
+2-SIYA-8895,ps lifecycle services,2.8409917332376815e-08,Not Churned
+2-SIYA-8895,commercial desktops,4.467316529219208e-09,Not Churned
+2-SIYA-8895,hps ink supplies,0.003166926458611569,Not Churned
+2-SIYA-8895,office non managed,5.844814658889383e-09,Not Churned
+2-SIYA-8895,ops toner supplies,0.053466252676792475,Going to be Churned
+2-SIYA-8895,home laser printers,6.414424805515427e-09,Not Churned
+2-SIYA-8895,commercial displays (l5),2.2357632090408524e-08,Not Churned
+2-SPVR-142,commercial peripherals,0.09814323619459722,Going to be Churned
+2-SPVR-142,commercial notebooks,0.08224747012652091,Not Churned
+2-SPVR-142,ps lifecycle services,0.09771531332916247,Not Churned
+2-SPVR-142,commercial dockings,3.8399636870415076e-08,Not Churned
+2-SPVR-142,commercial desktops,0.024870760189509837,Going to be Churned
+2-SPVR-142,hps ink supplies,0.015452582797248359,Not Churned
+2-SPVR-142,office non managed,0.04159038278245421,Not Churned
+2-SPVR-142,ops toner supplies,0.004221495417442414,Not Churned
+2-SPVR-142,hps toner supplies,0.15798670856344035,Not Churned
+2-SPVR-142,office managed,0.012418205996215393,Not Churned
+2-SPVR-142,home laser printers,0.06298313795071758,Not Churned
+2-SPVR-142,print support services,0.040849671746920814,Going to be Churned
+2-SPVR-142,home ink printers,0.0118804055894913,Not Churned
+2-SPVR-142,large format design,0.0008397022604895069,Not Churned
+2-SPVR-142,scanners,0.04620341828618508,Going to be Churned
+2-SPVR-142,consumer notebooks,0.0007763256253797759,Not Churned
+2-SPVR-142,big tank,0.05016517731290921,Not Churned
+2-SPVR-142,consumer peripherals,2.3534218859320468e-08,Not Churned
+2-SPVR-142,commercial displays (l5),0.0595308582777782,Going to be Churned
+2-WGQU-93,hps ink supplies,3.315487921772273,Going to be Churned
+2-WGQU-93,office non managed,1.0707873379873591,Not Churned
+2-WGQU-93,ops toner supplies,0.1031860420463859,Not Churned
+2-WGQU-93,office managed,0.0927796964639161,Not Churned
+2-WGQU-93,print support services,1.0125834623648997e-08,Not Churned
+2-WGQU-93,office pagewide printers,0.7152673408120834,Not Churned
+2-WGQU-93,ops ink supplies,0.01409899200219225,Not Churned
+2-WGQU-93,large format design,0.031901592012743014,Not Churned
+2-WGQU-93,scanners,0.036695793095904594,Going to be Churned
+2-WGQU-93,big tank,19981.173617690358,Going to be Churned
+2-WPAN-20,commercial peripherals,0.031008655452742857,Going to be Churned
+2-WPAN-20,commercial notebooks,0.03278074791434427,Going to be Churned
+2-WPAN-20,mobile workstations,0.0004076787012638333,Not Churned
+2-WPAN-20,workstations,0.01863924565436153,Not Churned
+2-WPAN-20,ps lifecycle services,0.032124483473997684,Going to be Churned
+2-WPAN-20,commercial dockings,1.5264513269186804e-08,Not Churned
+2-WPAN-20,commercial desktops,0.03888619185739718,Going to be Churned
+2-WPAN-20,hps ink supplies,0.01336045621528761,Not Churned
+2-WPAN-20,office non managed,0.037568018662652226,Going to be Churned
+2-WPAN-20,ops toner supplies,0.03526644908853273,Going to be Churned
+2-WPAN-20,hps toner supplies,0.025099999072479832,Not Churned
+2-WPAN-20,office managed,0.0001601452023636759,Not Churned
+2-WPAN-20,home laser printers,0.018678741944789714,Not Churned
+2-WPAN-20,ops ink supplies,0.0016717040740906023,Not Churned
+2-WPAN-20,home ink printers,0.05196359649740998,Going to be Churned
+2-WPAN-20,large format design,0.007088623801298115,Not Churned
+2-WPAN-20,consumer gaming,0.00294155995000695,Not Churned
+2-WPAN-20,consumer displays,0.0877491804356508,Not Churned
+2-WPAN-20,consumer desktops,0.0002290359651198973,Not Churned
+2-WPAN-20,consumer notebooks,0.010590554279887648,Not Churned
+2-WPAN-20,big tank,0.0004815235005230228,Not Churned
+2-WPAN-20,consumer peripherals,0.05763441401345432,Not Churned
+2-WPAN-20,commercial displays (l5),0.04415602893964621,Not Churned
+2-WPAN-20,psg retail solutions,2.042232711508957e-08,Not Churned
+3-HSE4-10483,hps ink supplies,0.014075830297270091,Not Churned
+3-HSE4-10483,office non managed,0.009435242738539965,Not Churned
+3-HSE4-10483,ops toner supplies,0.013272311492641915,Not Churned
+3-HSE4-10483,hps toner supplies,0.01462786085057753,Not Churned
+3-HSE4-10483,office managed,0.01404281716994929,Not Churned
+3-HSE4-10483,home laser printers,0.05144529108805696,Going to be Churned
+3-HSE4-10483,print support services,0.18249100213595223,Not Churned
+3-HSE4-10483,office pagewide printers,0.19789692893812752,Going to be Churned
+3-HSE4-10483,ops ink supplies,0.00992262850401416,Not Churned
+3-HSE4-10483,home ink printers,5.316900350382813e-05,Not Churned
+3-HSE4-10483,large format design,0.3597762621664376,Not Churned
+3-HSE4-10483,managed print services,0.05778764392593366,Not Churned
+3-HSE4-10483,spts,3.072651776367194e-09,Not Churned
+3-HSE4-19495,commercial peripherals,0.02894601048159129,Not Churned
+3-HSE4-19495,commercial notebooks,0.037484164982730085,Not Churned
+3-HSE4-19495,mobile workstations,0.011325355950498687,Not Churned
+3-HSE4-19495,workstations,0.019051260981310502,Not Churned
+3-HSE4-19495,ps lifecycle services,0.010917745484651678,Not Churned
+3-HSE4-19495,cloud clients,1.4378446172427559e-08,Not Churned
+3-HSE4-19495,commercial dockings,1.6185403347288867e-08,Not Churned
+3-HSE4-19495,commercial desktops,0.024425818687794164,Not Churned
+3-HSE4-19495,office non managed,0.06724520036931969,Not Churned
+3-HSE4-19495,ops toner supplies,0.005298891214816465,Not Churned
+3-HSE4-19495,hps toner supplies,0.024011139337778712,Not Churned
+3-HSE4-19495,home laser printers,0.40476330622392553,Not Churned
+3-HSE4-19495,ops ink supplies,0.028807737192466935,Going to be Churned
+3-HSE4-19495,home ink printers,0.030183150541118458,Not Churned
+3-HSE4-19495,psg other commercial,0.07759585076264558,Not Churned
+3-HSE4-19495,commercial displays (l5),0.03096009648901173,Going to be Churned
+3-HSE4-19495,psg retail solutions,0.0005183548372625975,Not Churned
+3-HSHD-10194,hps ink supplies,0.03527625401319764,Going to be Churned
+3-HSHD-10194,office non managed,0.007837662125918292,Not Churned
+3-HSHD-10194,ops toner supplies,0.04480520590716861,Not Churned
+3-HSHD-10194,hps toner supplies,0.22841928736776218,Not Churned
+3-HSHD-10194,office managed,0.027276059188567275,Not Churned
+3-HSHD-10194,home laser printers,0.034518145552192,Going to be Churned
+3-HSHD-10194,office pagewide printers,0.007016618834552924,Not Churned
+3-HSHD-10194,ops ink supplies,0.10742569393301125,Not Churned
+3-HSHD-10194,home ink printers,0.011770578088241545,Not Churned
+3-HSHD-10194,managed print services,1.3204403800349375e-08,Not Churned
+3-HSHD-10194,spts,2.1632165877237756e-08,Not Churned
+3-HSHD-5065,commercial notebooks,0.0018975830078126132,Not Churned
+3-HSHD-5065,mobile workstations,0.0,Not Churned
+3-HSHD-5065,workstations,0.0033498446489572094,Not Churned
+3-HSHD-5065,commercial desktops,0.005505670047548045,Not Churned
+3-HSHD-5065,hps ink supplies,0.006635687230977156,Not Churned
+3-HSHD-5065,office non managed,0.01073263891054108,Not Churned
+3-HSHD-5065,ops toner supplies,0.026924388985040675,Not Churned
+3-HSHD-5065,hps toner supplies,0.014137882811384454,Not Churned
+3-HSHD-5065,home laser printers,0.09357697078711143,Not Churned
+3-HSHD-5065,ops ink supplies,6.2670865907016556e-09,Not Churned
+3-HSHD-5065,home ink printers,0.0012208262832099877,Not Churned
+3-HSHD-5065,large format design,0.5446415108568358,Not Churned
+3-HSHD-5065,scanners,0.012563805778818828,Not Churned
+3-HSHD-5065,consumer desktops,0.003723984739868579,Not Churned
+3-HSHD-5065,consumer notebooks,0.0007595225026065271,Not Churned
+3-HSHD-5065,big tank,0.1401712536691682,Not Churned
+3-HSHD-5065,large format production,0.003911072530864199,Not Churned
+3-HSHD-5065,commercial displays (l5),0.000907383116710144,Not Churned
+3-HSHP-194,commercial peripherals,0.047264721061462914,Not Churned
+3-HSHP-194,commercial notebooks,0.002173981222780432,Not Churned
+3-HSHP-194,mobile workstations,0.0002453010725388608,Not Churned
+3-HSHP-194,ps lifecycle services,0.3084442371590532,Not Churned
+3-HSHP-194,commercial desktops,0.016043923758767554,Not Churned
+3-HSHP-194,hps ink supplies,0.021102483753146755,Not Churned
+3-HSHP-194,office non managed,0.00471775559650905,Not Churned
+3-HSHP-194,ops toner supplies,0.16868794650195804,Not Churned
+3-HSHP-194,hps toner supplies,20.69724896653234,Not Churned
+3-HSHP-194,home laser printers,0.007389427628996695,Not Churned
+3-HSHP-194,print support services,0.009909595428241361,Not Churned
+3-HSHP-194,ops ink supplies,0.1951237775312399,Not Churned
+3-HSHP-194,home ink printers,2.5428287866136078e-08,Not Churned
+3-HSHP-194,large format design,0.2343678222812922,Not Churned
+3-HSHP-194,scanners,0.0020212385337103193,Not Churned
+3-HSHP-194,big tank,0.012019012666304521,Not Churned
+3-HSHP-194,consumer peripherals,4.7770798048664306e-08,Not Churned
+3-HSIB-12057,commercial notebooks,3.447438859232699,Going to be Churned
+3-HSIB-12057,mobile workstations,1.5125027047703453e-08,Not Churned
+3-HSIB-12057,workstations,0.01787068695872561,Not Churned
+3-HSIB-12057,commercial desktops,0.01581204867031644,Not Churned
+3-HSIB-12057,hps ink supplies,0.000247925629824797,Not Churned
+3-HSIB-12057,office non managed,0.014782488533998632,Not Churned
+3-HSIB-12057,ops toner supplies,0.12251136515367426,Going to be Churned
+3-HSIB-12057,hps toner supplies,0.0017602270720037667,Not Churned
+3-HSIB-12057,office managed,0.017451509331571267,Not Churned
+3-HSIB-12057,home laser printers,0.015769082159303918,Not Churned
+3-HSIB-12057,print support services,4.746585500678015e-08,Not Churned
+3-HSIB-12057,ops ink supplies,0.00025597975795941836,Not Churned
+3-HSIB-12057,home ink printers,3.8532295648259734e-08,Not Churned
+3-HSIB-12057,scanners,2.880630367568788e-08,Not Churned
+3-HSIB-12057,commercial displays (l5),0.04893402499640492,Going to be Churned
+3-HSIB-12057,psg retail solutions,4.6556183201871713e-08,Not Churned
+3-HSIB-17381,commercial peripherals,0.0040023377173626475,Not Churned
+3-HSIB-17381,commercial notebooks,0.018067514613690782,Not Churned
+3-HSIB-17381,mobile workstations,0.012197620232929932,Not Churned
+3-HSIB-17381,workstations,0.11917370407879188,Not Churned
+3-HSIB-17381,ps lifecycle services,0.016841310030412834,Not Churned
+3-HSIB-17381,cloud clients,0.0030743634259259257,Not Churned
+3-HSIB-17381,commercial dockings,1.0096149708856155,Not Churned
+3-HSIB-17381,commercial desktops,0.05378859206827144,Going to be Churned
+3-HSIB-17381,hps ink supplies,0.06173942035096568,Not Churned
+3-HSIB-17381,office non managed,0.0504863311637002,Not Churned
+3-HSIB-17381,ops toner supplies,0.015143320279857141,Not Churned
+3-HSIB-17381,hps toner supplies,0.019395011285871403,Not Churned
+3-HSIB-17381,office managed,0.05628000696190246,Not Churned
+3-HSIB-17381,home laser printers,0.07469707755157702,Not Churned
+3-HSIB-17381,print support services,0.0005929177663887901,Not Churned
+3-HSIB-17381,office pagewide printers,0.0034411402621285924,Not Churned
+3-HSIB-17381,ops ink supplies,0.017374669936955536,Not Churned
+3-HSIB-17381,home ink printers,0.012207479090900744,Not Churned
+3-HSIB-17381,large format design,0.06564539894436364,Going to be Churned
+3-HSIB-17381,scanners,0.029734787077404366,Not Churned
+3-HSIB-17381,managed print services,0.0018335352373721582,Not Churned
+3-HSIB-17381,consumer desktops,0.0010667968128401806,Not Churned
+3-HSIB-17381,ps consumer transactional services,2.830944170076226e-08,Not Churned
+3-HSIB-17381,big tank,0.005650335504833193,Not Churned
+3-HSIB-17381,consumer peripherals,0.09223081405539371,Not Churned
+3-HSIB-17381,commercial displays (l5),0.017474254753102582,Not Churned
+3-HSIB-17381,ps managed services,7.265237702504735e-05,Not Churned
+3-HSIB-17381,psg retail solutions,0.0006904735311004208,Not Churned
+3-HSIP-151,commercial dockings,2.2283737242367074e-08,Not Churned
+3-HSIP-151,hps ink supplies,0.009933684260046143,Not Churned
+3-HSIP-151,office non managed,0.07792058983166285,Going to be Churned
+3-HSIP-151,ops toner supplies,0.01627311564320461,Not Churned
+3-HSIP-151,hps toner supplies,0.010499785291527217,Not Churned
+3-HSIP-151,office managed,0.020582713180586017,Not Churned
+3-HSIP-151,home laser printers,0.002279566281840228,Not Churned
+3-HSIP-151,ops ink supplies,0.02663957434410843,Not Churned
+3-HSIP-151,home ink printers,0.015292525591911695,Not Churned
+3-HSIP-151,large format design,0.023617253686861156,Not Churned
+3-HSIP-151,spts,0.000796470108829078,Not Churned
+3-HWKK-17,commercial peripherals,0.020151636497814016,Going to be Churned
+3-HWKK-17,commercial notebooks,0.00995498668625846,Going to be Churned
+3-HWKK-17,mobile workstations,0.2517935122675178,Not Churned
+3-HWKK-17,workstations,0.09201140165664266,Not Churned
+3-HWKK-17,ps lifecycle services,0.035812572865059025,Going to be Churned
+3-HWKK-17,cloud clients,0.03144997646597319,Going to be Churned
+3-HWKK-17,commercial dockings,0.0680022940003792,Going to be Churned
+3-HWKK-17,commercial desktops,0.03621447403991687,Not Churned
+3-HWKK-17,hps ink supplies,0.004797583520097682,Not Churned
+3-HWKK-17,office non managed,0.002117019032414467,Not Churned
+3-HWKK-17,ops toner supplies,0.04900350838507234,Not Churned
+3-HWKK-17,hps toner supplies,0.01079211647067283,Not Churned
+3-HWKK-17,home laser printers,3.126450966260086e-05,Not Churned
+3-HWKK-17,print support services,2.5315286730337374e-08,Not Churned
+3-HWKK-17,ops ink supplies,0.01755578195539793,Not Churned
+3-HWKK-17,home ink printers,0.03332247993116579,Not Churned
+3-HWKK-17,large format design,0.05945684592984727,Not Churned
+3-HWKK-17,consumer gaming,1.9812320809406002e-08,Not Churned
+3-HWKK-17,big tank,7.245818995292149e-09,Not Churned
+3-HWKK-17,consumer peripherals,0.04624726924314669,Not Churned
+3-HWKK-17,commercial displays (l5),0.04364464394119196,Not Churned
+3-HWKK-17,commercial solutions,0.001260415708065399,Not Churned
+3-HWKK-17,ps digital services,4.530070977746914e-08,Not Churned
+3-I0RY-93,commercial peripherals,0.15855741422457706,Not Churned
+3-I0RY-93,commercial notebooks,0.21652017662234835,Not Churned
+3-I0RY-93,mobile workstations,0.026694112376163877,Not Churned
+3-I0RY-93,workstations,0.05545559188981396,Going to be Churned
+3-I0RY-93,ps lifecycle services,0.36093784018298325,Not Churned
+3-I0RY-93,cloud clients,2.4965806854215543e-08,Not Churned
+3-I0RY-93,commercial dockings,0.00952333437982774,Not Churned
+3-I0RY-93,commercial desktops,0.06776703319854806,Going to be Churned
+3-I0RY-93,hps ink supplies,0.03537898684950556,Not Churned
+3-I0RY-93,office non managed,0.010704859663328513,Not Churned
+3-I0RY-93,ops toner supplies,0.041182081612081624,Not Churned
+3-I0RY-93,hps toner supplies,0.03368089247399464,Not Churned
+3-I0RY-93,office managed,0.015072914507213254,Not Churned
+3-I0RY-93,home laser printers,0.021429341716565665,Going to be Churned
+3-I0RY-93,print support services,0.0022954265837702146,Not Churned
+3-I0RY-93,ops ink supplies,2.6520880718587794e-09,Not Churned
+3-I0RY-93,home ink printers,0.0035747076698887433,Not Churned
+3-I0RY-93,large format design,0.03505487872712876,Not Churned
+3-I0RY-93,consumer gaming,6.382803161520631e-09,Not Churned
+3-I0RY-93,consumer displays,0.14422370444431773,Not Churned
+3-I0RY-93,managed print services,0.0,Not Churned
+3-I0RY-93,spts,7.501862869572691e-09,Not Churned
+3-I0RY-93,consumer desktops,1.78779016716003e-08,Not Churned
+3-I0RY-93,ps consumer transactional services,0.0224331750579321,Not Churned
+3-I0RY-93,consumer notebooks,0.02196872926136843,Going to be Churned
+3-I0RY-93,big tank,4.385040858941375e-06,Not Churned
+3-I0RY-93,consumer peripherals,0.06418200395895686,Not Churned
+3-I0RY-93,commercial displays (l5),0.010898711624707465,Not Churned
+3-I0RY-93,psg retail solutions,3.7187699011531634e-08,Not Churned
+3-I1BF-7,commercial peripherals,0.16354960610779623,Going to be Churned
+3-I1BF-7,commercial notebooks,0.10369231806104877,Not Churned
+3-I1BF-7,mobile workstations,0.023115513662703077,Not Churned
+3-I1BF-7,workstations,0.08014374119068612,Going to be Churned
+3-I1BF-7,ps lifecycle services,0.09739857738173137,Not Churned
+3-I1BF-7,cloud clients,0.24289945752782655,Not Churned
+3-I1BF-7,commercial dockings,0.09797608845739651,Going to be Churned
+3-I1BF-7,commercial desktops,0.9069741731702418,Not Churned
+3-I1BF-7,hps toner supplies,2.8204785724049637e-08,Not Churned
+3-I1BF-7,home laser printers,3.055832250447849e-08,Not Churned
+3-I1BF-7,home ink printers,0.002680903039878226,Not Churned
+3-I1BF-7,large format design,2.6669162450988916e-08,Not Churned
+3-I1BF-7,consumer peripherals,0.018981438494318437,Not Churned
+3-I1BF-7,commercial displays (l5),0.05340675959096552,Going to be Churned
+3-S8ZM31,commercial notebooks,0.004466750602366905,Not Churned
+3-S8ZM31,hps ink supplies,0.01760424755520104,Not Churned
+3-S8ZM31,office non managed,0.08923987662395816,Not Churned
+3-S8ZM31,ops toner supplies,0.008534652514073126,Not Churned
+3-S8ZM31,hps toner supplies,0.01203278154858485,Not Churned
+3-S8ZM31,home laser printers,0.01395839581148486,Not Churned
+3-S8ZM31,office pagewide printers,3.148830351006802e-08,Not Churned
+3-S8ZM31,ops ink supplies,0.1219689070738211,Not Churned
+3-S8ZM31,home ink printers,0.049310701284768235,Going to be Churned
+3-S8ZM31,large format design,0.013643693603634505,Not Churned
+3-S8ZM31,consumer gaming,0.0,Not Churned
+3-S8ZM31,scanners,0.0015003514474508943,Not Churned
+3-S8ZM31,big tank,0.0286110070430108,Not Churned
+3-S8ZM31,commercial displays (l5),0.039249752578831,Not Churned
+3-UYW6CC,hps ink supplies,0.02041084704262646,Not Churned
+3-UYW6CC,ops toner supplies,0.03268291138880556,Not Churned
+3-UYW6CC,hps toner supplies,0.0007879034679913797,Not Churned
+3-UYW6CC,office managed,0.06378183153968207,Not Churned
+3-UYW6CC,consumer gaming,0.0006162607699458989,Not Churned
+3-UYW6CC,consumer displays,0.00026207748724489796,Not Churned
+3-UYW6CC,consumer desktops,3.530403271368128e-08,Not Churned
+3-UYW6CC,consumer notebooks,0.008868403244000886,Not Churned
+3-UYW6CC,big tank,0.0014069496133046464,Not Churned
+3-V7M2V9,office non managed,0.00041632395439108436,Not Churned
+3-V7M2V9,ops toner supplies,0.03715168779321114,Going to be Churned
+3-V7M2V9,hps toner supplies,0.03544102112357746,Going to be Churned
+3-V7M2V9,office managed,0.4485037101760483,Going to be Churned
+3-V7M2V9,office pagewide printers,0.10211337523738706,Going to be Churned
+3-V7M2V9,ops ink supplies,0.004829844104688344,Not Churned
+3-V7M2V9,large format design,0.16270344144561813,Going to be Churned
+3-V7M2V9,managed print services,0.011476833736267017,Not Churned
+3-VH3MJA,hps ink supplies,0.0008580328799950419,Not Churned
+3-VH3MJA,office non managed,0.005305776770273964,Not Churned
+3-VH3MJA,ops toner supplies,0.032039197323247885,Not Churned
+3-VH3MJA,hps toner supplies,0.002135997416505431,Not Churned
+3-VH3MJA,office managed,0.5083035991372484,Going to be Churned
+3-VH3MJA,print support services,0.012234116943101545,Not Churned
+3-VH3MJA,office pagewide printers,0.019137256770017975,Not Churned
+3-VH3MJA,ops ink supplies,0.011609021573967928,Not Churned
+3-VH3MJA,large format design,0.06380487284267317,Not Churned
+3-VH3MJA,scanners,1.931620685686997e-05,Not Churned
+3-VH3MJA,managed print services,0.0035952263887281425,Not Churned
+3-VH9UUA,commercial peripherals,8.069163912367565e-09,Not Churned
+3-VH9UUA,commercial desktops,0.3360882597668966,Not Churned
+3-VH9UUA,hps ink supplies,0.016860915214811235,Not Churned
+3-VH9UUA,office non managed,0.005585211961162064,Not Churned
+3-VH9UUA,ops toner supplies,0.048085415594656844,Going to be Churned
+3-VH9UUA,office pagewide printers,7.525951839022798e-09,Not Churned
+3-VH9UUA,ops ink supplies,7.827696114032355e-09,Not Churned
+3-VH9UUA,large format design,0.020422599566335072,Not Churned
+3-VH9UUA,consumer peripherals,2.360214853203063e-08,Not Churned
+3-VH9UUA,commercial displays (l5),1.1332186378230276e-08,Not Churned
+3-VLMGIE,hps ink supplies,4.541306272830611e-08,Not Churned
+3-VLMGIE,office non managed,0.024145169322317115,Not Churned
+3-VLMGIE,ops toner supplies,0.026998625416143007,Not Churned
+3-VLMGIE,hps toner supplies,0.04233421930226992,Not Churned
+3-VLMGIE,office managed,0.04493697064282651,Going to be Churned
+3-VLMGIE,office pagewide printers,0.0012880760810996294,Not Churned
+3-VLMGIE,ops ink supplies,0.06177901046952892,Going to be Churned
+3-VLMGIE,large format design,0.0868938352681027,Not Churned
+3-VLMGIE,scanners,0.05799410521738973,Going to be Churned
+345161TR5D,commercial peripherals,0.02833669763833558,Going to be Churned
+345161TR5D,commercial notebooks,0.013641209405169292,Not Churned
+345161TR5D,mobile workstations,0.06392014028837155,Going to be Churned
+345161TR5D,workstations,0.012744655301899421,Not Churned
+345161TR5D,ps lifecycle services,0.03779209570055298,Not Churned
+345161TR5D,cloud clients,0.013616890563068702,Not Churned
+345161TR5D,commercial dockings,0.02743550105020339,Not Churned
+345161TR5D,commercial desktops,0.05383413158483585,Going to be Churned
+345161TR5D,hps ink supplies,0.1646842203004146,Going to be Churned
+345161TR5D,office non managed,0.03969863397806856,Not Churned
+345161TR5D,ops toner supplies,0.036015116355139175,Not Churned
+345161TR5D,hps toner supplies,0.0015657962903567605,Not Churned
+345161TR5D,office managed,0.005225096221039082,Going to be Churned
+345161TR5D,home laser printers,0.002724236574359627,Not Churned
+345161TR5D,office pagewide printers,0.0023745515205828263,Not Churned
+345161TR5D,ops ink supplies,0.0034498261573302704,Not Churned
+345161TR5D,home ink printers,0.0015284128762748758,Not Churned
+345161TR5D,consumer peripherals,0.027064775042281625,Not Churned
+345161TR5D,commercial third party options,0.12485640338453767,Not Churned
+345161TR5D,commercial displays (l5),0.020359995004561482,Not Churned
+345161TR5D,ps managed services,0.006180757964764495,Not Churned
+345161TR5D,psg retail solutions,0.028242636719602483,Not Churned
+345161TR5D,commercial solutions,0.0011337585242248173,Not Churned
+345SIUD-16849,commercial peripherals,0.03711875147429126,Not Churned
+345SIUD-16849,commercial notebooks,0.012376952796551896,Not Churned
+345SIUD-16849,mobile workstations,0.027191302637428034,Not Churned
+345SIUD-16849,workstations,0.005974611194423154,Not Churned
+345SIUD-16849,ps lifecycle services,0.04601257971251104,Going to be Churned
+345SIUD-16849,cloud clients,0.021149492693702553,Not Churned
+345SIUD-16849,commercial dockings,0.03674827683507156,Not Churned
+345SIUD-16849,commercial desktops,0.10922889795079554,Not Churned
+345SIUD-16849,hps ink supplies,0.021522866577318944,Not Churned
+345SIUD-16849,office non managed,0.006285970474894513,Not Churned
+345SIUD-16849,ops toner supplies,0.03378474678070836,Going to be Churned
+345SIUD-16849,hps toner supplies,0.00607448522561048,Not Churned
+345SIUD-16849,office managed,3.205627957292197e-08,Not Churned
+345SIUD-16849,home laser printers,0.001136024231004569,Not Churned
+345SIUD-16849,office pagewide printers,3.9658970959612356e-08,Not Churned
+345SIUD-16849,ops ink supplies,0.006816574814216796,Not Churned
+345SIUD-16849,home ink printers,0.1399619950998223,Not Churned
+345SIUD-16849,large format design,9.061038644127588e-09,Not Churned
+345SIUD-16849,psg other commercial,3.33024995792286e-08,Not Churned
+345SIUD-16849,consumer peripherals,0.1453855822996936,Not Churned
+345SIUD-16849,commercial displays (l5),0.013030430727302547,Not Churned
+345SIUD-16849,psg retail solutions,1.293186207375948e-08,Not Churned
+345SIUD-19458,commercial notebooks,1.7351586953152758e-08,Not Churned
+345SIUD-19458,mobile workstations,0.0007324126449722545,Not Churned
+345SIUD-19458,workstations,3.408806629633052e-08,Not Churned
+345SIUD-19458,commercial desktops,0.09377484177839901,Not Churned
+345SIUD-19458,office non managed,0.03812168778130289,Not Churned
+345SIUD-19458,ops toner supplies,0.08496054630156469,Not Churned
+345SIUD-19458,hps toner supplies,0.023757292333413296,Not Churned
+345SIUD-19458,office managed,0.005890455351692967,Not Churned
+345SIUD-19458,home laser printers,0.020343439912041027,Not Churned
+345SIUD-19458,print support services,0.02280003010373221,Going to be Churned
+345SIUD-19458,large format design,0.009879990878781797,Not Churned
+345SIUD-19458,psg other commercial,1.6011124287878388e-08,Not Churned
+345SIUD-23225,hps ink supplies,0.060129861990800365,Going to be Churned
+345SIUD-23225,ops toner supplies,0.020887108899512008,Not Churned
+345SIUD-23225,hps toner supplies,0.012027305504039033,Not Churned
+345SIUD-23225,home laser printers,2.548946237176808e-09,Not Churned
+345SIUD-23225,ops ink supplies,0.03257044917947621,Not Churned
+345SIUD-23225,large format design,0.036566587943423545,Going to be Churned
+345SIUD-23225,consumer gaming,0.0027758056650313864,Not Churned
+345SIUD-23225,spts,4.878519407468902e-09,Not Churned
+345SIUD-23225,consumer notebooks,0.0033093296740063028,Not Churned
+345SIUD-23225,consumer peripherals,0.00596760062607887,Not Churned
+6541I5-1147,commercial displays,0.0016249886416876416,Not Churned
+6541I5-1147,commercial peripherals,0.009950159989702894,Not Churned
+6541I5-1147,commercial notebooks,0.012458501494129914,Not Churned
+6541I5-1147,ps lifecycle services,8.203466208169387e-09,Not Churned
+6541I5-1147,commercial dockings,0.0011348576662390652,Not Churned
+6541I5-1147,commercial desktops,4.5175102573600096e-08,Not Churned
+6541I5-1147,hps ink supplies,0.06820528925148261,Not Churned
+6541I5-1147,office non managed,0.031174480138343258,Not Churned
+6541I5-1147,ops toner supplies,0.025623647026649255,Going to be Churned
+6541I5-1147,hps toner supplies,0.024709155227484098,Not Churned
+6541I5-1147,office managed,0.07409741073716608,Going to be Churned
+6541I5-1147,print support services,0.03724726139565784,Going to be Churned
+6541I5-1147,office pagewide printers,0.026950845661630567,Not Churned
+6541I5-1147,ops ink supplies,0.019197256645754328,Not Churned
+6541I5-1147,large format design,0.07500530701282772,Not Churned
+6541I5-1147,scanners,0.1666871808288377,Not Churned
+6541I5-1147,managed print services,0.06906928648396353,Going to be Churned
+6541I5-1147,consumer peripherals,3.1895461374246416e-09,Not Churned
+6541WV-1086,commercial peripherals,0.04129142689131166,Not Churned
+6541WV-1086,commercial notebooks,0.029702871977454737,Not Churned
+6541WV-1086,ps lifecycle services,0.10122603232570092,Not Churned
+6541WV-1086,commercial dockings,0.002040479111043962,Not Churned
+6541WV-1086,office non managed,0.03974984883098941,Going to be Churned
+6541WV-1086,ops toner supplies,0.002078129598393939,Not Churned
+6541WV-1086,office managed,0.11023221752456817,Not Churned
+6541WV-1086,home laser printers,0.0005969591430844742,Not Churned
+6541WV-1086,print support services,0.011663471329738611,Not Churned
+6541WV-1086,office pagewide printers,0.013848617600269418,Not Churned
+6541WV-1086,ps manageability and security,0.015160211693377133,Not Churned
+654VOZFNY,commercial displays,0.046787962046207825,Going to be Churned
+654VOZFNY,commercial peripherals,0.02593518527747378,Not Churned
+654VOZFNY,commercial notebooks,0.05626448455990662,Going to be Churned
+654VOZFNY,mobile workstations,0.009385374018829456,Not Churned
+654VOZFNY,workstations,0.020949671137960483,Not Churned
+654VOZFNY,ps lifecycle services,0.04485413198469093,Going to be Churned
+654VOZFNY,commercial dockings,0.04841176971067666,Not Churned
+654VOZFNY,commercial desktops,0.02658265961152249,Going to be Churned
+654VOZFNY,home ink consumer printers,0.0006137351338796518,Not Churned
+654VOZFNY,hps ink supplies,0.018210569630955235,Not Churned
+654VOZFNY,office non managed,0.025321634131223326,Not Churned
+654VOZFNY,ops toner supplies,0.02332430502140851,Going to be Churned
+654VOZFNY,hps toner supplies,0.006037583197333284,Not Churned
+654VOZFNY,office managed,3.2149147383114785e-08,Not Churned
+654VOZFNY,home laser printers,0.0062166879690305375,Not Churned
+654VOZFNY,office pagewide printers,0.07936826517568836,Not Churned
+654VOZFNY,ops ink supplies,0.06538580921902304,Not Churned
+654VOZFNY,home ink printers,0.005663231786702093,Not Churned
+654VOZFNY,large format design,0.012953417366202277,Not Churned
+654VOZFNY,consumer gaming,0.06391610761560242,Not Churned
+654VOZFNY,scanners,1.909437072505125e-08,Not Churned
+654VOZFNY,consumer displays,0.008761594010451545,Not Churned
+654VOZFNY,consumer desktops,0.001219285511357422,Not Churned
+654VOZFNY,consumer notebooks,0.02752162824639608,Not Churned
+654VOZFNY,big tank,0.013186689897930674,Not Churned
+654VOZFNY,consumer peripherals,0.03990741765015847,Not Churned
+654VOZFNY,commercial third party options,5.5143944863885054e-08,Not Churned

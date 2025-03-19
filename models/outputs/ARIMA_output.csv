@@ -1,0 +1,927 @@
+PARTNER_ID,PRODUCT_CATEGORY,MAPE,Churn_Status
+0345M99-18534,commercial displays,2.025212351009453,Safe
+0345M99-18534,commercial peripherals,1.2384674515292027,Safe
+0345M99-18534,commercial notebooks,8.470325487150477,Churned
+0345M99-18534,mobile workstations,4.912415068098428,Safe
+0345M99-18534,workstations,0.48766441030511704,Safe
+0345M99-18534,ps lifecycle services,13.729556420233619,Churned
+0345M99-18534,cloud clients,2.408031095644901,Safe
+0345M99-18534,commercial dockings,1.763595518641671,Churned
+0345M99-18534,commercial desktops,1.9709397320577096,Safe
+0345M99-18534,home ink consumer printers,0.15118043964292313,Safe
+0345M99-18534,hps ink supplies,2.1057100346809388,Safe
+0345M99-18534,office non managed,0.5479540284874814,Safe
+0345M99-18534,ops toner supplies,0.7493397458118652,Safe
+0345M99-18534,hps toner supplies,2.8132577875674563,Churned
+0345M99-18534,office managed,3.2608773417067267,Safe
+0345M99-18534,home laser printers,6.525118585634488,Churned
+0345M99-18534,print support services,13.880403423807067,Churned
+0345M99-18534,office pagewide printers,3.6477970508773874,Churned
+0345M99-18534,ops ink supplies,0.14154130339953302,Safe
+0345M99-18534,home ink printers,1.0538998408586244,Safe
+0345M99-18534,large format design,2.4850328836127296,Churned
+0345M99-18534,ps manageability and security,2.8717620028016557e-10,Safe
+0345M99-18534,consumer gaming,0.0,Safe
+0345M99-18534,scanners,0.0,Safe
+0345M99-18534,consumer displays,0.0,Safe
+0345M99-18534,managed print services,0.0,Safe
+0345M99-18534,spts,0.0,Safe
+0345M99-18534,consumer desktops,1.0263704229923047,Churned
+0345M99-18534,ps consumer transactional services,0.0,Safe
+0345M99-18534,consumer notebooks,0.0,Safe
+0345M99-18534,big tank,2.5066610503691904,Safe
+0345M99-18534,consumer peripherals,0.0,Safe
+0345M99-19291,commercial displays,3.434729429403532e-09,Safe
+0345M99-19291,commercial peripherals,0.44383033704113045,Safe
+0345M99-19291,commercial notebooks,0.0,Safe
+0345M99-19291,mobile workstations,0.4213512469576667,Safe
+0345M99-19291,ps lifecycle services,0.0,Safe
+0345M99-19291,commercial dockings,0.0,Safe
+0345M99-19291,commercial desktops,0.0,Safe
+0345M99-19291,home ink consumer printers,1.5300909021335398,Safe
+0345M99-19291,hps ink supplies,0.29908605326616855,Safe
+0345M99-19291,office non managed,1.774546437661827,Safe
+0345M99-19291,ops toner supplies,1.296682681976319,Safe
+0345M99-19291,hps toner supplies,0.7222319275343244,Safe
+0345M99-19291,office managed,1.1440104197535646e-10,Safe
+0345M99-19291,home laser printers,13.776144096363458,Safe
+0345M99-19291,print support services,3.968034327845877e-10,Safe
+0345M99-19291,office pagewide printers,6.844322408081022e-11,Safe
+0345M99-19291,ops ink supplies,1.4664906056935685,Churned
+0345M99-19291,home ink printers,3.708426174982224,Safe
+0345M99-19291,large format design,0.1984518406457962,Safe
+0345M99-19291,consumer gaming,3.2347019047737364e-09,Safe
+0345M99-19291,spts,1.75056537432308e-07,Safe
+0345M99-19291,consumer notebooks,0.0,Safe
+0345M99-19291,big tank,0.0,Safe
+0345M99-19291,consumer peripherals,0.0,Safe
+0345M99-19291,phs other,2.631553480290753e-09,Safe
+0345M99-19396,commercial displays,3.5820435637314807,Safe
+0345M99-19396,commercial peripherals,2.385560553597879e-09,Safe
+0345M99-19396,commercial notebooks,2.2575636900871503e-05,Safe
+0345M99-19396,workstations,3.0427536664906896,Churned
+0345M99-19396,ps lifecycle services,0.0,Safe
+0345M99-19396,commercial dockings,0.0,Safe
+0345M99-19396,commercial desktops,3.895076689190728,Churned
+0345M99-19396,home ink consumer printers,1.5969658070573642,Safe
+0345M99-19396,office non managed,0.44532211278812955,Safe
+0345M99-19396,office managed,3.1599149879544343e-08,Safe
+0345M99-19396,home laser printers,2.389660569782488,Safe
+0345M99-19396,home ink printers,6.532451284495153,Churned
+0345M99-19396,scanners,0.3912517332819547,Safe
+0345M99-19396,consumer displays,0.38525113880279116,Safe
+0345M99-19396,consumer desktops,0.8416456501352385,Safe
+0345M99-19396,ps consumer transactional services,2.0759716730127768e-07,Safe
+0345M99-19396,consumer notebooks,4.4016258895205915e-11,Safe
+0345M99-19396,big tank,4.777353761605484,Safe
+0345MDH-10365,commercial displays,0.044081981078073575,Safe
+0345MDH-10365,commercial peripherals,0.9064791517574401,Churned
+0345MDH-10365,commercial notebooks,2.124747571182232,Safe
+0345MDH-10365,mobile workstations,0.12633076262592788,Safe
+0345MDH-10365,workstations,1.2501706508448414,Safe
+0345MDH-10365,ps lifecycle services,1.9933087672163408,Safe
+0345MDH-10365,commercial dockings,0.15743827425032034,Safe
+0345MDH-10365,commercial desktops,0.40189425210967944,Safe
+0345MDH-10365,home ink consumer printers,0.5735602997916474,Churned
+0345MDH-10365,hps ink supplies,0.6200863089972485,Safe
+0345MDH-10365,office non managed,8.397745673271418,Safe
+0345MDH-10365,ops toner supplies,1.0084190363682157,Safe
+0345MDH-10365,hps toner supplies,0.7688647330052796,Safe
+0345MDH-10365,office managed,1.2350980670350322,Safe
+0345MDH-10365,home laser printers,0.7715117592482501,Churned
+0345MDH-10365,print support services,0.11942979434524624,Safe
+0345MDH-10365,office pagewide printers,0.0,Safe
+0345MDH-10365,ops ink supplies,0.05965028696270307,Safe
+0345MDH-10365,home ink printers,0.346511971662555,Safe
+0345MDH-10365,large format design,1.456530906822422,Safe
+0345MDH-10365,scanners,0.17257189433101364,Safe
+0345MDH-10365,consumer displays,0.0,Safe
+0345MDH-10365,spts,0.7107749298812285,Safe
+0345MDH-10365,consumer desktops,4.527720532837219e-09,Safe
+0345MDH-10365,consumer peripherals,1.3900823672435891,Safe
+1-10LZ6-13770,commercial displays,0.30156949946781314,Safe
+1-10LZ6-13770,commercial peripherals,893.9072970002434,Safe
+1-10LZ6-13770,commercial notebooks,20.920620412770436,Safe
+1-10LZ6-13770,mobile workstations,0.0,Safe
+1-10LZ6-13770,workstations,1.9319134873099526,Safe
+1-10LZ6-13770,ps lifecycle services,35.74899608284234,Safe
+1-10LZ6-13770,cloud clients,2.618277816252167e-10,Safe
+1-10LZ6-13770,commercial dockings,104.00148576817524,Safe
+1-10LZ6-13770,commercial desktops,0.22208786833465796,Safe
+1-10LZ6-13770,home ink consumer printers,1.4736205707040483e-14,Safe
+1-10LZ6-13770,hps ink supplies,0.2635876400693808,Safe
+1-10LZ6-13770,office non managed,0.5172103699144337,Safe
+1-10LZ6-13770,ops toner supplies,0.6244686135534064,Safe
+1-10LZ6-13770,hps toner supplies,0.4167376000646171,Safe
+1-10LZ6-13770,office managed,1.3254393577299952,Safe
+1-10LZ6-13770,home laser printers,0.33692330491152234,Safe
+1-10LZ6-13770,print support services,0.0,Safe
+1-10LZ6-13770,office pagewide printers,0.0,Churned
+1-10LZ6-13770,ops ink supplies,0.989224764163719,Churned
+1-10LZ6-13770,home ink printers,1.9378130903347572,Churned
+1-10LZ6-13770,large format design,9.511404078655328,Churned
+1-10LZ6-13770,consumer gaming,0.0,Safe
+1-10LZ6-13770,scanners,0.8394533833402006,Safe
+1-10LZ6-13770,consumer displays,5.20530728930323,Churned
+1-10LZ6-13770,managed print services,0.2405059047338727,Safe
+1-10LZ6-13770,consumer desktops,0.0,Safe
+1-10LZ6-13770,ps consumer transactional services,0.0,Safe
+1-10LZ6-13770,consumer notebooks,0.34623981049787517,Churned
+1-10LZ6-13770,big tank,8.522448539734503e-09,Safe
+1-10LZ6-13770,consumer peripherals,4.133367494208351,Safe
+1-10LZ6-13770,commercial third party options,0.0,Safe
+1-10LZ6-15843,commercial displays,0.0,Safe
+1-10LZ6-15843,commercial notebooks,0.0,Safe
+1-10LZ6-15843,workstations,4.366562353395545e-11,Safe
+1-10LZ6-15843,ps lifecycle services,0.0,Safe
+1-10LZ6-15843,commercial desktops,0.0,Safe
+1-10LZ6-15843,hps ink supplies,0.7368948977398728,Churned
+1-10LZ6-15843,office non managed,0.4713014127604899,Safe
+1-10LZ6-15843,ops toner supplies,3.7369309578060177,Safe
+1-10LZ6-15843,hps toner supplies,6.263586694496124,Churned
+1-10LZ6-15843,office managed,0.20981956439092425,Safe
+1-10LZ6-15843,home laser printers,0.47073657093684257,Safe
+1-10LZ6-15843,print support services,0.4654650698421612,Safe
+1-10LZ6-15843,ops ink supplies,2.0931774578595905,Safe
+1-10LZ6-15843,home ink printers,2.3595830566918283,Churned
+1-10LZ6-15843,large format design,0.36297412169355536,Safe
+1-10LZ6-15843,consumer gaming,0.0,Safe
+1-10LZ6-15843,scanners,1.394535051035811,Churned
+1-10LZ6-15843,consumer displays,0.0,Safe
+1-10LZ6-15843,managed print services,5.715149932292907e-09,Safe
+1-10LZ6-15843,ps consumer transactional services,1.2367491273307814e-09,Safe
+1-10LZ6-15843,consumer notebooks,1.650565471375408,Churned
+1-10LZ6-15843,big tank,5.467935714657424e-11,Safe
+1-S20K-124,commercial notebooks,0.9985209732743486,Churned
+1-S20K-124,commercial desktops,0.0,Safe
+1-S20K-124,home ink consumer printers,5.994227985510478,Safe
+1-S20K-124,hps ink supplies,0.4951261465511797,Safe
+1-S20K-124,office non managed,2.7076076292026947,Safe
+1-S20K-124,ops toner supplies,1.022733259743835,Churned
+1-S20K-124,hps toner supplies,0.34072745614145894,Safe
+1-S20K-124,home laser printers,0.9276678552730498,Safe
+1-S20K-124,ops ink supplies,1.548894848271464,Safe
+1-S20K-124,home ink printers,0.9184330395472239,Safe
+1-S20K-124,large format design,1.1803251854464687,Safe
+1-S20K-124,scanners,1.0242074911454073,Churned
+1-S20K-124,big tank,3.1654495049667886,Safe
+1-S20K-124,large format production,0.0,Safe
+1-YSTYH9,commercial displays,178.41877666195106,Churned
+1-YSTYH9,commercial peripherals,0.0,Safe
+1-YSTYH9,commercial notebooks,238.05298939550275,Safe
+1-YSTYH9,mobile workstations,0.9895462036320245,Safe
+1-YSTYH9,workstations,0.0,Safe
+1-YSTYH9,ps lifecycle services,2.0375096930564416,Safe
+1-YSTYH9,commercial dockings,1.2013342069689043e-08,Safe
+1-YSTYH9,commercial desktops,0.0,Safe
+1-YSTYH9,office non managed,0.7347608756011043,Safe
+1-YSTYH9,ops toner supplies,0.494048475083497,Safe
+1-YSTYH9,hps toner supplies,1.3083566473562795,Safe
+1-YSTYH9,office managed,4.454583166470501,Safe
+1-YSTYH9,home laser printers,0.1338630068132683,Safe
+1-YSTYH9,office pagewide printers,7.276640571974512e-09,Safe
+1-YSTYH9,ops ink supplies,0.0,Safe
+1-YSTYH9,consumer gaming,0.0,Safe
+1-YSTYH9,consumer displays,0.0,Safe
+1-YSTYH9,spts,1.042922216858435e-08,Safe
+1-YSTYH9,consumer notebooks,6.195179668118166e-09,Safe
+1-YSTYH9,consumer peripherals,0.8833887241267467,Safe
+123HSE4-9637,commercial peripherals,4.139787741684692,Safe
+123HSE4-9637,commercial notebooks,0.8927182910660968,Safe
+123HSE4-9637,mobile workstations,2.385647073165109,Churned
+123HSE4-9637,workstations,1.1872908016721326,Churned
+123HSE4-9637,ps lifecycle services,0.1082931212542804,Safe
+123HSE4-9637,cloud clients,0.0,Safe
+123HSE4-9637,commercial dockings,2.147146467887495,Safe
+123HSE4-9637,commercial desktops,0.3194663957578165,Safe
+123HSE4-9637,hps ink supplies,1.8637124023393419,Safe
+123HSE4-9637,office non managed,13.261066278021246,Churned
+123HSE4-9637,ops toner supplies,0.351645839422628,Safe
+123HSE4-9637,hps toner supplies,0.46752976634916305,Safe
+123HSE4-9637,office managed,0.11586777619547024,Safe
+123HSE4-9637,home laser printers,0.3198409245749849,Safe
+123HSE4-9637,print support services,0.6502923180412302,Safe
+123HSE4-9637,office pagewide printers,0.5222685081360026,Safe
+123HSE4-9637,ops ink supplies,0.1974249509073425,Safe
+123HSE4-9637,home ink printers,1.43602665562886,Safe
+123HSE4-9637,large format design,0.6440062322816167,Safe
+123HSE4-9637,scanners,2.913003962233682,Safe
+123HSE4-9637,consumer displays,0.0,Safe
+123HSE4-9637,managed print services,0.4796450577875578,Safe
+123HSE4-9637,big tank,0.0,Safe
+123HSE4-9637,commercial displays (l5),7.907781950880828,Safe
+123HSGW-6484,hps ink supplies,0.6872542327400661,Safe
+123HSGW-6484,office non managed,6.5341542314639226e-09,Safe
+123HSGW-6484,ops toner supplies,0.4719290567487086,Safe
+123HSGW-6484,hps toner supplies,0.21408105371421188,Safe
+123HSGW-6484,office managed,76.3165965366156,Safe
+123HSGW-6484,ops ink supplies,0.40536451649189364,Safe
+123HSGW-6484,home ink printers,0.0,Safe
+123HSGW-6484,large format design,0.3583585203731267,Safe
+123HSGW-6484,scanners,2.7883752229270957e-09,Safe
+123HSGW-6484,spts,0.9014774070880659,Safe
+123HSIB-19739,commercial peripherals,1.2301265862830364,Churned
+123HSIB-19739,commercial notebooks,0.18036646665694944,Safe
+123HSIB-19739,mobile workstations,0.9427687537051062,Churned
+123HSIB-19739,workstations,0.0,Churned
+123HSIB-19739,ps lifecycle services,0.3826523793454941,Safe
+123HSIB-19739,cloud clients,0.0,Safe
+123HSIB-19739,commercial dockings,6.451312917433349,Safe
+123HSIB-19739,commercial desktops,0.16237036814463113,Safe
+123HSIB-19739,hps ink supplies,0.2801167865344816,Safe
+123HSIB-19739,office non managed,0.4214121030621351,Safe
+123HSIB-19739,ops toner supplies,0.11794669478356253,Safe
+123HSIB-19739,hps toner supplies,0.2161220536224229,Safe
+123HSIB-19739,office managed,0.19946612745808784,Safe
+123HSIB-19739,home laser printers,5.660317856985861,Churned
+123HSIB-19739,print support services,0.0,Churned
+123HSIB-19739,office pagewide printers,0.2417518628765603,Safe
+123HSIB-19739,ops ink supplies,0.2799190923190621,Safe
+123HSIB-19739,home ink printers,70.94145902089832,Safe
+123HSIB-19739,large format design,1.2694201077462201e-08,Safe
+123HSIB-19739,scanners,0.0,Safe
+123HSIB-19739,consumer notebooks,0.15270176505939523,Safe
+123HSIB-19739,big tank,44.916731900438876,Safe
+123HSIB-19739,consumer peripherals,1.352174374462358e-07,Safe
+123HSIB-19739,commercial displays (l5),2.7874197192548213,Churned
+123HSIB-19739,ps managed services,4.76924004063137e-15,Safe
+123HSIB-19739,psg retail solutions,0.9182221726556085,Safe
+123HSIP-5318,commercial peripherals,1.5916185258560192,Churned
+123HSIP-5318,commercial notebooks,0.6699304643441344,Churned
+123HSIP-5318,mobile workstations,0.43552759925531,Safe
+123HSIP-5318,workstations,0.19791854422417393,Safe
+123HSIP-5318,ps lifecycle services,1.182608989356529,Safe
+123HSIP-5318,cloud clients,0.0,Safe
+123HSIP-5318,commercial dockings,2.060589414487234,Churned
+123HSIP-5318,commercial desktops,3.1831198595913,Safe
+123HSIP-5318,hps ink supplies,0.3171141633658594,Safe
+123HSIP-5318,office non managed,0.7104744392579657,Safe
+123HSIP-5318,ops toner supplies,0.24911583411900326,Safe
+123HSIP-5318,hps toner supplies,0.37559551352800774,Safe
+123HSIP-5318,office managed,0.43910455528156245,Safe
+123HSIP-5318,home laser printers,0.0,Safe
+123HSIP-5318,print support services,1.0721618399769095,Churned
+123HSIP-5318,office pagewide printers,0.0,Churned
+123HSIP-5318,ops ink supplies,0.6000851676938234,Safe
+123HSIP-5318,home ink printers,17.46831854371529,Safe
+123HSIP-5318,large format design,0.03706788205270196,Safe
+123HSIP-5318,scanners,0.0,Churned
+123HSIP-5318,managed print services,3.978127013100131,Churned
+123HSIP-5318,consumer notebooks,7.988340478567e-09,Safe
+123HSIP-5318,big tank,83.78265305330616,Safe
+123HSIP-5318,consumer peripherals,6.266473758625031e-08,Safe
+123HSIP-5318,commercial third party options,0.0,Churned
+123HSIP-5318,commercial displays (l5),0.23825428573141705,Safe
+123HSIP-5318,ps managed services,1.2270835220066665,Safe
+2-15QO7YP,commercial peripherals,0.31270644967782146,Safe
+2-15QO7YP,commercial notebooks,0.37782737244117653,Safe
+2-15QO7YP,mobile workstations,8.189406023221132e-10,Safe
+2-15QO7YP,workstations,0.5030269143914936,Churned
+2-15QO7YP,ps lifecycle services,0.0,Safe
+2-15QO7YP,cloud clients,5.958304532081926e-10,Safe
+2-15QO7YP,commercial desktops,0.0,Safe
+2-15QO7YP,hps ink supplies,0.0,Safe
+2-15QO7YP,office non managed,0.20208062320693346,Safe
+2-15QO7YP,ops toner supplies,6.354284420796489,Safe
+2-15QO7YP,hps toner supplies,5.6666175419158124e-08,Safe
+2-15QO7YP,office managed,1.919811078313672,Churned
+2-15QO7YP,home laser printers,1.2310984187362286,Safe
+2-15QO7YP,print support services,5.327824537878549e-09,Safe
+2-15QO7YP,office pagewide printers,0.0,Safe
+2-15QO7YP,ops ink supplies,8.177494160237408e-09,Safe
+2-15QO7YP,home ink printers,0.4881915552503953,Safe
+2-15QO7YP,large format design,1.8469328117946664e-09,Safe
+2-15QO7YP,consumer gaming,6.942309525371412e-09,Safe
+2-15QO7YP,scanners,0.2560404598032925,Safe
+2-15QO7YP,consumer displays,0.0,Safe
+2-15QO7YP,consumer notebooks,0.08893692201760456,Safe
+2-15QO7YP,big tank,0.346164663657949,Safe
+2-15QO7YP,consumer peripherals,2.038189063923555,Safe
+2-15QO7YP,commercial third party options,0.0,Safe
+2-15QO7YP,commercial displays (l5),0.0,Safe
+2-19AYBTB,commercial peripherals,64.29074771260689,Safe
+2-19AYBTB,commercial notebooks,1.0719142002285393,Safe
+2-19AYBTB,commercial desktops,2.236050449068918,Safe
+2-19AYBTB,hps ink supplies,0.08573021337867168,Safe
+2-19AYBTB,office non managed,0.591065198894063,Safe
+2-19AYBTB,ops toner supplies,0.7954800565413233,Safe
+2-19AYBTB,hps toner supplies,0.7552229870630045,Safe
+2-19AYBTB,home laser printers,3.526271256569303,Safe
+2-19AYBTB,home ink printers,0.0,Safe
+2-19AYBTB,large format design,0.7201641156126709,Safe
+2-19AYBTB,scanners,0.7433676610008136,Safe
+2-19AYBTB,consumer desktops,6.031301062252949e-09,Safe
+2-19AYBTB,consumer notebooks,1.5822427597049474e-09,Safe
+2-19AYBTB,big tank,0.0,Safe
+2-19AYBTB,commercial displays (l5),4.963036993799985,Safe
+2-SISC-24215,commercial peripherals,20.82499082092603,Safe
+2-SISC-24215,commercial notebooks,9.816322572174581,Safe
+2-SISC-24215,mobile workstations,0.0,Safe
+2-SISC-24215,workstations,0.8859711422530177,Churned
+2-SISC-24215,ps lifecycle services,0.5104777664070903,Safe
+2-SISC-24215,commercial desktops,8.83262510281309,Safe
+2-SISC-24215,hps ink supplies,1.6130795530863657,Safe
+2-SISC-24215,office non managed,8.254597514102075,Safe
+2-SISC-24215,ops toner supplies,0.656648841330412,Churned
+2-SISC-24215,hps toner supplies,248.45217800370068,Safe
+2-SISC-24215,office managed,0.0,Safe
+2-SISC-24215,home laser printers,1.01899261004179,Churned
+2-SISC-24215,print support services,6.089499706612864,Churned
+2-SISC-24215,ops ink supplies,0.0,Safe
+2-SISC-24215,home ink printers,0.0,Safe
+2-SISC-24215,large format design,222.23945369861212,Safe
+2-SISC-24215,consumer gaming,0.3729399557185086,Safe
+2-SISC-24215,scanners,0.9986714429577768,Churned
+2-SISC-24215,consumer displays,1.8311354089873502,Safe
+2-SISC-24215,consumer desktops,2.920852063398504,Safe
+2-SISC-24215,ps consumer transactional services,8.898115383578506e-08,Safe
+2-SISC-24215,consumer notebooks,0.042568297879925464,Safe
+2-SISC-24215,big tank,3.271918802526254,Safe
+2-SISC-24215,consumer peripherals,18.263241961088607,Safe
+2-SISC-24215,commercial third party options,4.3153471970530757e-07,Safe
+2-SISC-24215,commercial displays (l5),9.095753083752767,Safe
+2-SISC-24215,ps managed services,0.0,Safe
+2-SISC-7587,commercial peripherals,0.0,Safe
+2-SISC-7587,commercial notebooks,0.0,Safe
+2-SISC-7587,workstations,7.827898349369873e-11,Safe
+2-SISC-7587,ps lifecycle services,2.2194259824115252,Churned
+2-SISC-7587,commercial desktops,1.0894811543375027,Safe
+2-SISC-7587,hps ink supplies,0.3645515417693484,Safe
+2-SISC-7587,office non managed,0.5570770078923423,Safe
+2-SISC-7587,ops toner supplies,5.423792225365582,Safe
+2-SISC-7587,hps toner supplies,4.72043386418709,Safe
+2-SISC-7587,office managed,0.7709541264042266,Safe
+2-SISC-7587,home laser printers,0.28394272850347024,Safe
+2-SISC-7587,print support services,2.2293701912327006,Churned
+2-SISC-7587,ops ink supplies,1.3272045554213903,Safe
+2-SISC-7587,home ink printers,0.0,Safe
+2-SISC-7587,large format design,0.8074206111323322,Safe
+2-SISC-7587,scanners,1.5223734855684528,Safe
+2-SISC-7587,consumer notebooks,5.101130081834927,Churned
+2-SISC-7587,consumer peripherals,0.2391567323800381,Safe
+2-SISC-7587,commercial displays (l5),1.6261190503542444,Churned
+2-SISC-8202,commercial peripherals,0.3928081208640658,Safe
+2-SISC-8202,commercial notebooks,5.5037066995429065,Safe
+2-SISC-8202,mobile workstations,0.0,Safe
+2-SISC-8202,workstations,0.0,Safe
+2-SISC-8202,ps lifecycle services,11.140938615598127,Safe
+2-SISC-8202,cloud clients,4.394692332991782e-11,Safe
+2-SISC-8202,commercial desktops,0.6421636259538539,Safe
+2-SISC-8202,hps ink supplies,10.355644538731621,Churned
+2-SISC-8202,office non managed,26.850496906373092,Churned
+2-SISC-8202,ops toner supplies,2.410880151652311,Safe
+2-SISC-8202,hps toner supplies,0.31810039430713666,Safe
+2-SISC-8202,home laser printers,0.0,Safe
+2-SISC-8202,print support services,2.0001152051580866e-09,Safe
+2-SISC-8202,ops ink supplies,0.0,Safe
+2-SISC-8202,large format design,0.2041787255706897,Safe
+2-SISC-8202,scanners,2.645187724639523e-09,Safe
+2-SISC-8202,consumer displays,0.0,Safe
+2-SISC-8202,big tank,0.0,Safe
+2-SISC-8202,consumer peripherals,0.09425542175562328,Safe
+2-SISC-8202,commercial third party options,0.0,Safe
+2-SISC-8202,commercial displays (l5),1.6909884303916893,Safe
+2-SIUD-2228,commercial peripherals,0.0,Safe
+2-SIUD-2228,commercial notebooks,0.5895429951964682,Safe
+2-SIUD-2228,commercial desktops,0.35553859752406974,Safe
+2-SIUD-2228,hps ink supplies,2.4685523636022473,Churned
+2-SIUD-2228,office non managed,0.0,Safe
+2-SIUD-2228,ops toner supplies,0.16613268476292942,Safe
+2-SIUD-2228,hps toner supplies,1.8289300630367809,Safe
+2-SIUD-2228,office managed,0.0,Safe
+2-SIUD-2228,ops ink supplies,2.8653695189858695e-14,Safe
+2-SIUD-2228,large format design,5.6401193974217414e-08,Safe
+2-SIUD-2228,commercial displays (l5),3.703481243047741e-15,Churned
+2-SIVP-12151,commercial peripherals,0.7804947244338074,Safe
+2-SIVP-12151,commercial notebooks,37.01662343935866,Safe
+2-SIVP-12151,mobile workstations,0.3408841818395879,Safe
+2-SIVP-12151,workstations,1.4038239633440586,Safe
+2-SIVP-12151,ps lifecycle services,0.8958884243331614,Churned
+2-SIVP-12151,cloud clients,2.8709402454039038e-09,Safe
+2-SIVP-12151,commercial desktops,1.7585362854127287,Safe
+2-SIVP-12151,office non managed,0.0,Safe
+2-SIVP-12151,office managed,2.6217575283169388e-08,Safe
+2-SIVP-12151,home laser printers,0.0,Safe
+2-SIVP-12151,large format design,6.601749241539926e-09,Safe
+2-SIVP-12151,consumer displays,0.0,Safe
+2-SIVP-12151,commercial displays (l5),2.19864441055298,Safe
+2-SIVP-21163,hps ink supplies,0.6002029878788263,Safe
+2-SIVP-21163,ops toner supplies,1.139233760189473,Safe
+2-SIVP-21163,hps toner supplies,46.676569820814436,Safe
+2-SIVP-21163,ops ink supplies,0.3691492258847397,Safe
+2-SIVP-21163,large format design,4.560591320109443e-09,Safe
+2-SIVP-24,commercial peripherals,2.984857645706914,Safe
+2-SIVP-24,commercial notebooks,2.0579899341503807,Churned
+2-SIVP-24,mobile workstations,6.920482646884361,Safe
+2-SIVP-24,workstations,3.8354937817421115,Safe
+2-SIVP-24,ps lifecycle services,1.32523981274422,Safe
+2-SIVP-24,cloud clients,0.0,Safe
+2-SIVP-24,commercial dockings,0.0,Safe
+2-SIVP-24,commercial desktops,1.4790800671823703,Safe
+2-SIVP-24,hps ink supplies,0.16669264393167635,Safe
+2-SIVP-24,office non managed,1.5140617891009026e-09,Safe
+2-SIVP-24,ops toner supplies,0.8936122991021771,Churned
+2-SIVP-24,office managed,1.8854768100282492e-08,Safe
+2-SIVP-24,print support services,0.0,Safe
+2-SIVP-24,office pagewide printers,0.0,Safe
+2-SIVP-24,ops ink supplies,0.0,Safe
+2-SIVP-24,home ink printers,1.366644044507924,Safe
+2-SIVP-24,large format design,0.7377187998042785,Safe
+2-SIVP-24,consumer gaming,3.0669641950253066,Safe
+2-SIVP-24,consumer displays,0.187065635329508,Safe
+2-SIVP-24,spts,0.0,Safe
+2-SIVP-24,consumer desktops,6.612359581613277,Safe
+2-SIVP-24,ps consumer transactional services,9.56447409650763,Safe
+2-SIVP-24,consumer notebooks,1.5804917757615993,Churned
+2-SIVP-24,consumer peripherals,0.6595280799462317,Safe
+2-SIVP-24,commercial third party options,0.8001410467708501,Safe
+2-SIVP-24,commercial displays (l5),1.037131231853558,Safe
+2-SIVP-24,ps managed services,0.0,Safe
+2-SIVP-24,psg retail solutions,0.21118982397753577,Safe
+2-SIVP-24,ps digital services,1.4343871735752505,Safe
+2-SIVP-3218,hps ink supplies,0.2679459089380685,Safe
+2-SIVP-3218,ops toner supplies,0.3227222772417134,Safe
+2-SIVP-3218,hps toner supplies,0.3585964778606407,Safe
+2-SIVP-3218,home laser printers,1.5150603489470926e-08,Safe
+2-SIVP-3218,ops ink supplies,2.9753046405013492,Churned
+2-SIVP-3218,large format design,0.0,Safe
+2-SIVP-3218,commercial displays (l5),1.7064792438963298e-08,Safe
+2-SIVP-6899,hps ink supplies,0.08191002667885719,Safe
+2-SIVP-6899,office non managed,8.624270896384575,Safe
+2-SIVP-6899,ops toner supplies,0.5728464902193102,Safe
+2-SIVP-6899,hps toner supplies,0.4362986146892421,Safe
+2-SIVP-6899,home laser printers,0.4603565382193473,Safe
+2-SIVP-6899,print support services,1.6814994337052558e-08,Safe
+2-SIVP-6899,ops ink supplies,0.3739867795019607,Safe
+2-SIVP-6899,home ink printers,5.3350709432129075e-09,Safe
+2-SIVP-6899,large format design,0.6548031551618999,Safe
+2-SIVP-6899,spts,5.779336058946173,Churned
+2-SIWB-16006,commercial peripherals,2.2253497052473558e-07,Safe
+2-SIWB-16006,commercial notebooks,3.7537898040983284e-09,Safe
+2-SIWB-16006,ps lifecycle services,0.0,Safe
+2-SIWB-16006,commercial dockings,4.052547816200857e-08,Safe
+2-SIWB-16006,commercial desktops,0.0,Safe
+2-SIWB-16006,hps ink supplies,0.8750682867851703,Safe
+2-SIWB-16006,ops toner supplies,0.3536689453157367,Safe
+2-SIWB-16006,hps toner supplies,2.178608263993964,Churned
+2-SIWB-16006,office managed,0.0,Churned
+2-SIWB-16006,print support services,3.1420434194950086,Safe
+2-SIWB-16006,ops ink supplies,3.2429663561038,Safe
+2-SIWB-16006,large format design,0.0,Safe
+2-SIYA-5121,commercial notebooks,8.460100348109984e-10,Safe
+2-SIYA-5121,commercial desktops,1.7817726875563815e-15,Safe
+2-SIYA-5121,hps ink supplies,0.042665582176697164,Safe
+2-SIYA-5121,office non managed,8.715944560515135,Churned
+2-SIYA-5121,ops toner supplies,0.6717471837771551,Churned
+2-SIYA-5121,hps toner supplies,1.6331051701516384,Churned
+2-SIYA-5121,home laser printers,2.115423816212578,Churned
+2-SIYA-5121,ops ink supplies,1.0063407450679398,Churned
+2-SIYA-5121,consumer displays,0.0,Safe
+2-SIYA-5121,consumer desktops,0.0331345551717813,Safe
+2-SIYA-5121,consumer notebooks,7.075584437651225e-09,Safe
+2-SIYA-5121,consumer peripherals,5.414767865411554e-07,Safe
+2-SIYA-5121,commercial displays (l5),0.9712946953493706,Churned
+2-SIYA-8895,commercial peripherals,3.6681515581129286e-10,Safe
+2-SIYA-8895,commercial notebooks,4.5593225354666246e-11,Safe
+2-SIYA-8895,mobile workstations,2.4122790829167462e-05,Safe
+2-SIYA-8895,ps lifecycle services,7.79749431936942e-10,Safe
+2-SIYA-8895,commercial desktops,8.621206649514421e-12,Safe
+2-SIYA-8895,hps ink supplies,0.0,Safe
+2-SIYA-8895,office non managed,5.6399148539038154e-12,Safe
+2-SIYA-8895,ops toner supplies,3.390440498450916,Safe
+2-SIYA-8895,home laser printers,7.922370781624121e-10,Safe
+2-SIYA-8895,commercial displays (l5),3.451732328329988e-11,Safe
+2-SPVR-142,commercial peripherals,61.688909413460706,Safe
+2-SPVR-142,commercial notebooks,0.34881065645858744,Safe
+2-SPVR-142,ps lifecycle services,0.09274860396474753,Safe
+2-SPVR-142,commercial dockings,8.431446703734123e-09,Safe
+2-SPVR-142,commercial desktops,6.419302424792515,Safe
+2-SPVR-142,hps ink supplies,0.0,Safe
+2-SPVR-142,office non managed,0.40455790491999977,Safe
+2-SPVR-142,ops toner supplies,0.06929173645989975,Safe
+2-SPVR-142,hps toner supplies,1.6379460565081463,Safe
+2-SPVR-142,office managed,0.06660464806181561,Safe
+2-SPVR-142,home laser printers,2.0851299825732403,Safe
+2-SPVR-142,print support services,11.726110222589108,Safe
+2-SPVR-142,home ink printers,0.0,Safe
+2-SPVR-142,large format design,0.0,Safe
+2-SPVR-142,scanners,11.226983034602245,Safe
+2-SPVR-142,consumer notebooks,0.0,Safe
+2-SPVR-142,big tank,0.0,Safe
+2-SPVR-142,consumer peripherals,3.3219205684231674e-09,Safe
+2-SPVR-142,commercial displays (l5),3.71547983800932,Safe
+2-WGQU-93,hps ink supplies,0.0,Safe
+2-WGQU-93,office non managed,151.98593917686304,Churned
+2-WGQU-93,ops toner supplies,6.4383084742071315,Churned
+2-WGQU-93,office managed,0.8704336030921959,Safe
+2-WGQU-93,print support services,2.668007602038053e-08,Safe
+2-WGQU-93,office pagewide printers,2.875850180873421,Churned
+2-WGQU-93,ops ink supplies,1.4339508091066386,Churned
+2-WGQU-93,large format design,0.43049440700883584,Safe
+2-WGQU-93,scanners,18.0584111259954,Churned
+2-WGQU-93,big tank,0.0,Safe
+2-WPAN-20,commercial peripherals,0.5016205855499077,Safe
+2-WPAN-20,commercial notebooks,1.3687927806949525,Churned
+2-WPAN-20,mobile workstations,0.0,Safe
+2-WPAN-20,workstations,0.19969407891401708,Safe
+2-WPAN-20,ps lifecycle services,0.3565340778437271,Safe
+2-WPAN-20,commercial dockings,1.5082400197533828e-08,Safe
+2-WPAN-20,commercial desktops,0.7749498825186297,Safe
+2-WPAN-20,hps ink supplies,0.3943440406179738,Safe
+2-WPAN-20,office non managed,0.5887095576281536,Safe
+2-WPAN-20,ops toner supplies,1.6445782529557664,Safe
+2-WPAN-20,hps toner supplies,0.4854901883131255,Safe
+2-WPAN-20,office managed,0.0,Safe
+2-WPAN-20,home laser printers,1.2780735229417375,Safe
+2-WPAN-20,ops ink supplies,0.0009165758867909002,Safe
+2-WPAN-20,home ink printers,6.105669520382951,Safe
+2-WPAN-20,large format design,0.0709506270364227,Safe
+2-WPAN-20,consumer gaming,0.0,Safe
+2-WPAN-20,consumer displays,9.944813661506085,Churned
+2-WPAN-20,consumer desktops,0.0,Safe
+2-WPAN-20,consumer notebooks,0.0,Safe
+2-WPAN-20,big tank,0.0,Safe
+2-WPAN-20,consumer peripherals,2.8303328058977706,Churned
+2-WPAN-20,commercial displays (l5),0.7980232712314492,Churned
+2-WPAN-20,psg retail solutions,6.305854024006466e-11,Safe
+3-HSE4-10483,hps ink supplies,0.36572124221134655,Safe
+3-HSE4-10483,office non managed,0.22485260598518733,Safe
+3-HSE4-10483,ops toner supplies,0.695872537713154,Safe
+3-HSE4-10483,hps toner supplies,0.5060614717290698,Safe
+3-HSE4-10483,office managed,1.2178514890603607,Safe
+3-HSE4-10483,home laser printers,3.6930857630724456,Safe
+3-HSE4-10483,print support services,0.6515416382889981,Churned
+3-HSE4-10483,office pagewide printers,0.43133020435056574,Churned
+3-HSE4-10483,ops ink supplies,0.5296897646185817,Safe
+3-HSE4-10483,home ink printers,0.0,Safe
+3-HSE4-10483,large format design,5.822716145805446,Safe
+3-HSE4-10483,managed print services,0.0,Safe
+3-HSE4-10483,spts,9.715179571460172e-08,Safe
+3-HSE4-19495,commercial peripherals,3.8517764596918904,Safe
+3-HSE4-19495,commercial notebooks,11.50992292708128,Churned
+3-HSE4-19495,mobile workstations,4.2466796056461344,Churned
+3-HSE4-19495,workstations,0.9300780774475841,Safe
+3-HSE4-19495,ps lifecycle services,1.9710797323781177,Churned
+3-HSE4-19495,cloud clients,8.879338984671338e-11,Safe
+3-HSE4-19495,commercial dockings,6.3969215487013256e-09,Safe
+3-HSE4-19495,commercial desktops,2.3246452603896794,Safe
+3-HSE4-19495,office non managed,0.7280052222995731,Churned
+3-HSE4-19495,ops toner supplies,0.0,Safe
+3-HSE4-19495,hps toner supplies,0.2904124318136525,Safe
+3-HSE4-19495,home laser printers,30.392765739747187,Churned
+3-HSE4-19495,ops ink supplies,0.37046824026414027,Safe
+3-HSE4-19495,home ink printers,1.1961353762259077,Safe
+3-HSE4-19495,psg other commercial,2.353264859181964,Safe
+3-HSE4-19495,commercial displays (l5),1.0557482723021234,Safe
+3-HSE4-19495,psg retail solutions,0.0,Safe
+3-HSHD-10194,hps ink supplies,4.000007963954061e-14,Safe
+3-HSHD-10194,office non managed,0.2666980120094431,Safe
+3-HSHD-10194,ops toner supplies,2.5749236406404834,Safe
+3-HSHD-10194,hps toner supplies,83.29778508107431,Churned
+3-HSHD-10194,office managed,1.0474935623321002,Churned
+3-HSHD-10194,home laser printers,1.3620106359950896,Safe
+3-HSHD-10194,office pagewide printers,0.0,Safe
+3-HSHD-10194,ops ink supplies,2.0468628000229137,Churned
+3-HSHD-10194,home ink printers,0.8889595981454406,Safe
+3-HSHD-10194,managed print services,4.348956261577578e-09,Safe
+3-HSHD-10194,spts,2.671763580257393e-10,Safe
+3-HSHD-5065,commercial notebooks,0.0,Safe
+3-HSHD-5065,mobile workstations,3.36675358755759e-09,Safe
+3-HSHD-5065,workstations,0.0,Safe
+3-HSHD-5065,commercial desktops,0.0,Safe
+3-HSHD-5065,hps ink supplies,0.4329236821918436,Churned
+3-HSHD-5065,office non managed,0.0,Safe
+3-HSHD-5065,ops toner supplies,2.754977219608795,Churned
+3-HSHD-5065,hps toner supplies,1.0286576828550975,Churned
+3-HSHD-5065,home laser printers,7.697039908976508,Churned
+3-HSHD-5065,ops ink supplies,4.953853729094786e-08,Safe
+3-HSHD-5065,home ink printers,0.0,Safe
+3-HSHD-5065,large format design,10.82671811889443,Safe
+3-HSHD-5065,scanners,0.5602593197033143,Churned
+3-HSHD-5065,consumer desktops,0.0,Safe
+3-HSHD-5065,consumer notebooks,0.0,Safe
+3-HSHD-5065,big tank,0.0,Safe
+3-HSHD-5065,large format production,0.0,Safe
+3-HSHD-5065,commercial displays (l5),0.0,Safe
+3-HSHP-194,commercial peripherals,0.7270582557417629,Churned
+3-HSHP-194,commercial notebooks,0.0,Safe
+3-HSHP-194,mobile workstations,0.0,Safe
+3-HSHP-194,ps lifecycle services,0.0,Safe
+3-HSHP-194,commercial desktops,0.0,Safe
+3-HSHP-194,hps ink supplies,0.1816826494256696,Safe
+3-HSHP-194,office non managed,4.332812709705938e-16,Safe
+3-HSHP-194,ops toner supplies,15.07791172593797,Churned
+3-HSHP-194,hps toner supplies,4.231666762306765,Churned
+3-HSHP-194,home laser printers,0.0,Safe
+3-HSHP-194,print support services,0.05031725407264508,Safe
+3-HSHP-194,ops ink supplies,48.71269490024959,Churned
+3-HSHP-194,home ink printers,1.4357094745696056e-08,Safe
+3-HSHP-194,large format design,0.7402428790976208,Safe
+3-HSHP-194,scanners,0.0,Safe
+3-HSHP-194,big tank,0.0,Safe
+3-HSHP-194,consumer peripherals,6.293449205552135e-08,Safe
+3-HSIB-12057,commercial notebooks,0.7691972312518651,Safe
+3-HSIB-12057,mobile workstations,7.472290764817518e-10,Safe
+3-HSIB-12057,workstations,0.5580525996747249,Churned
+3-HSIB-12057,commercial desktops,2.35127358471222,Churned
+3-HSIB-12057,hps ink supplies,0.0,Safe
+3-HSIB-12057,office non managed,1.3199960228477625,Churned
+3-HSIB-12057,ops toner supplies,7.612836659584158,Safe
+3-HSIB-12057,hps toner supplies,0.0,Safe
+3-HSIB-12057,office managed,0.46914268529281344,Safe
+3-HSIB-12057,home laser printers,1.278447088768589,Churned
+3-HSIB-12057,print support services,1.9541487640001654e-09,Safe
+3-HSIB-12057,ops ink supplies,0.0,Safe
+3-HSIB-12057,home ink printers,1.5229034464468758e-08,Safe
+3-HSIB-12057,scanners,1.7789146339579692e-09,Safe
+3-HSIB-12057,commercial displays (l5),0.6900675105105992,Safe
+3-HSIB-12057,psg retail solutions,4.181885697047733e-09,Safe
+3-HSIB-17381,commercial peripherals,0.2762252842857459,Safe
+3-HSIB-17381,commercial notebooks,0.7910354131535351,Safe
+3-HSIB-17381,mobile workstations,0.6099003017200402,Safe
+3-HSIB-17381,workstations,1.3698238746432083,Churned
+3-HSIB-17381,ps lifecycle services,1.3029315970072874,Churned
+3-HSIB-17381,cloud clients,0.0,Safe
+3-HSIB-17381,commercial dockings,10.881953829730067,Churned
+3-HSIB-17381,commercial desktops,0.45093169730316784,Safe
+3-HSIB-17381,hps ink supplies,0.19954773866725603,Safe
+3-HSIB-17381,office non managed,5.009656555831915,Churned
+3-HSIB-17381,ops toner supplies,0.32907299999153855,Safe
+3-HSIB-17381,hps toner supplies,0.6492350190295811,Safe
+3-HSIB-17381,office managed,0.7095668526871882,Safe
+3-HSIB-17381,home laser printers,1.903099242172875,Churned
+3-HSIB-17381,print support services,0.0,Safe
+3-HSIB-17381,office pagewide printers,0.0,Safe
+3-HSIB-17381,ops ink supplies,1.1251788394510545,Churned
+3-HSIB-17381,home ink printers,1.6310078869220308e-14,Safe
+3-HSIB-17381,large format design,7.024527300380384,Safe
+3-HSIB-17381,scanners,0.0,Safe
+3-HSIB-17381,managed print services,0.0,Safe
+3-HSIB-17381,consumer desktops,0.0,Safe
+3-HSIB-17381,ps consumer transactional services,2.237735689594347e-08,Safe
+3-HSIB-17381,big tank,0.0,Safe
+3-HSIB-17381,consumer peripherals,1.9735174634325605,Churned
+3-HSIB-17381,commercial displays (l5),0.21845523003252637,Safe
+3-HSIB-17381,ps managed services,0.0,Safe
+3-HSIB-17381,psg retail solutions,0.0,Safe
+3-HSIP-151,commercial dockings,1.1008940447015982e-08,Safe
+3-HSIP-151,hps ink supplies,1.888689152683074,Safe
+3-HSIP-151,office non managed,11.680116407631639,Churned
+3-HSIP-151,ops toner supplies,4.8221638381692635,Churned
+3-HSIP-151,hps toner supplies,0.44444451446005767,Safe
+3-HSIP-151,office managed,0.25867326602122814,Safe
+3-HSIP-151,home laser printers,0.5035465080902706,Churned
+3-HSIP-151,ops ink supplies,0.458803337465269,Safe
+3-HSIP-151,home ink printers,0.0,Safe
+3-HSIP-151,large format design,1.0885177442775589,Safe
+3-HSIP-151,spts,0.0,Safe
+3-HWKK-17,commercial peripherals,1.5312352062056922,Safe
+3-HWKK-17,commercial notebooks,0.6805475243975667,Safe
+3-HWKK-17,mobile workstations,5.278607571452476,Safe
+3-HWKK-17,workstations,1.8822977543545907,Churned
+3-HWKK-17,ps lifecycle services,4.597942144999853,Safe
+3-HWKK-17,cloud clients,2.3596301716644565,Safe
+3-HWKK-17,commercial dockings,0.8849973053002065,Churned
+3-HWKK-17,commercial desktops,0.7319018056372795,Churned
+3-HWKK-17,hps ink supplies,8.89017985117163e-15,Safe
+3-HWKK-17,office non managed,0.0,Safe
+3-HWKK-17,ops toner supplies,0.0,Safe
+3-HWKK-17,hps toner supplies,0.0,Safe
+3-HWKK-17,home laser printers,0.0,Safe
+3-HWKK-17,print support services,1.000530517185989e-07,Safe
+3-HWKK-17,ops ink supplies,0.0,Safe
+3-HWKK-17,home ink printers,4.438173124322876,Churned
+3-HWKK-17,large format design,2.7286491256145387,Churned
+3-HWKK-17,consumer gaming,1.0440506732257666e-07,Safe
+3-HWKK-17,big tank,1.431874552841367e-08,Safe
+3-HWKK-17,consumer peripherals,0.37925835254379847,Safe
+3-HWKK-17,commercial displays (l5),0.7465694118226202,Safe
+3-HWKK-17,commercial solutions,0.0,Safe
+3-HWKK-17,ps digital services,2.9840166491487514e-08,Safe
+3-I0RY-93,commercial peripherals,3.4480589519070266,Churned
+3-I0RY-93,commercial notebooks,0.5157458349710631,Safe
+3-I0RY-93,mobile workstations,0.12183471169563713,Safe
+3-I0RY-93,workstations,14.017136974940723,Safe
+3-I0RY-93,ps lifecycle services,11.694921994964025,Safe
+3-I0RY-93,cloud clients,6.166989537800491e-10,Safe
+3-I0RY-93,commercial dockings,0.07433420393906914,Safe
+3-I0RY-93,commercial desktops,0.52193613959299,Safe
+3-I0RY-93,hps ink supplies,4.595806542645216,Safe
+3-I0RY-93,office non managed,0.21581539138359687,Safe
+3-I0RY-93,ops toner supplies,0.2653067200523447,Safe
+3-I0RY-93,hps toner supplies,0.17755882683486213,Safe
+3-I0RY-93,office managed,0.12435393404449656,Safe
+3-I0RY-93,home laser printers,1.3436504828611493,Safe
+3-I0RY-93,print support services,0.5200367345309576,Safe
+3-I0RY-93,ops ink supplies,6.551117575474001e-10,Safe
+3-I0RY-93,home ink printers,0.18405233051924716,Safe
+3-I0RY-93,large format design,6.82719898367861,Churned
+3-I0RY-93,consumer gaming,3.941659883975371e-10,Safe
+3-I0RY-93,consumer displays,1.7453842380329967,Churned
+3-I0RY-93,managed print services,2.2181876602189732e-07,Safe
+3-I0RY-93,spts,5.929889578387742e-08,Safe
+3-I0RY-93,consumer desktops,2.9441018435675726e-09,Safe
+3-I0RY-93,ps consumer transactional services,0.35111062379276703,Safe
+3-I0RY-93,consumer notebooks,0.8139850000623132,Safe
+3-I0RY-93,big tank,0.0,Safe
+3-I0RY-93,consumer peripherals,1.052328568461512,Safe
+3-I0RY-93,commercial displays (l5),0.1670280446601894,Safe
+3-I0RY-93,psg retail solutions,2.672293186187938e-08,Safe
+3-I1BF-7,commercial peripherals,41.98132384841145,Safe
+3-I1BF-7,commercial notebooks,3.7502664772830356,Safe
+3-I1BF-7,mobile workstations,0.3101066901708092,Safe
+3-I1BF-7,workstations,1.3453545284094404,Churned
+3-I1BF-7,ps lifecycle services,1.1468556116962396,Safe
+3-I1BF-7,cloud clients,0.7123337130231361,Safe
+3-I1BF-7,commercial dockings,155.5569823021011,Safe
+3-I1BF-7,commercial desktops,7.3130765472155055,Churned
+3-I1BF-7,hps toner supplies,7.431543729818201e-08,Safe
+3-I1BF-7,home laser printers,2.683888599669232e-08,Safe
+3-I1BF-7,home ink printers,0.0842154667116969,Safe
+3-I1BF-7,large format design,4.391831422984401e-09,Safe
+3-I1BF-7,consumer peripherals,0.0,Safe
+3-I1BF-7,commercial displays (l5),0.47125685210214335,Safe
+3-S8ZM31,commercial notebooks,0.0,Safe
+3-S8ZM31,hps ink supplies,0.29313900504207585,Safe
+3-S8ZM31,office non managed,6.733179512354938,Churned
+3-S8ZM31,ops toner supplies,1.480434078751161,Churned
+3-S8ZM31,hps toner supplies,1.0075856700010377,Churned
+3-S8ZM31,home laser printers,3.7797434386191617,Churned
+3-S8ZM31,office pagewide printers,1.2963593761521392e-09,Safe
+3-S8ZM31,ops ink supplies,6.64063381935489,Churned
+3-S8ZM31,home ink printers,6.49853127114718,Churned
+3-S8ZM31,large format design,0.4312717471837983,Churned
+3-S8ZM31,consumer gaming,4.96302492205326e-10,Safe
+3-S8ZM31,scanners,0.0,Safe
+3-S8ZM31,big tank,1.7705180299333163,Churned
+3-S8ZM31,commercial displays (l5),0.5422975897826546,Safe
+3-UYW6CC,hps ink supplies,0.0,Safe
+3-UYW6CC,ops toner supplies,1.7630127444852615,Safe
+3-UYW6CC,hps toner supplies,0.15800492294045917,Safe
+3-UYW6CC,office managed,0.7714145826292129,Churned
+3-UYW6CC,consumer gaming,0.0,Safe
+3-UYW6CC,consumer displays,0.0,Safe
+3-UYW6CC,consumer desktops,2.1801750125396155e-10,Safe
+3-UYW6CC,consumer notebooks,0.0,Safe
+3-UYW6CC,big tank,0.0,Safe
+3-V7M2V9,office non managed,0.0,Safe
+3-V7M2V9,ops toner supplies,8.882044659154305,Safe
+3-V7M2V9,hps toner supplies,1.4093004581723663,Safe
+3-V7M2V9,office managed,132.74170026495085,Safe
+3-V7M2V9,office pagewide printers,2.3870742742366824,Safe
+3-V7M2V9,ops ink supplies,0.4862529964781277,Safe
+3-V7M2V9,large format design,15.539442187206435,Safe
+3-V7M2V9,managed print services,0.485252928195559,Safe
+3-VH3MJA,hps ink supplies,0.0,Safe
+3-VH3MJA,office non managed,0.0,Safe
+3-VH3MJA,ops toner supplies,0.3742468432022984,Churned
+3-VH3MJA,hps toner supplies,0.0,Safe
+3-VH3MJA,office managed,46.06930824928599,Churned
+3-VH3MJA,print support services,0.0852128259195072,Safe
+3-VH3MJA,office pagewide printers,5.806362945235053e-14,Safe
+3-VH3MJA,ops ink supplies,0.23114428389548486,Safe
+3-VH3MJA,large format design,6.236815056143776,Safe
+3-VH3MJA,scanners,0.0,Safe
+3-VH3MJA,managed print services,0.009353371719077156,Safe
+3-VH9UUA,commercial peripherals,2.1261053250523674e-08,Safe
+3-VH9UUA,commercial desktops,0.44464320604515356,Churned
+3-VH9UUA,hps ink supplies,0.5073464122994924,Safe
+3-VH9UUA,office non managed,0.0,Safe
+3-VH9UUA,ops toner supplies,0.47094104119788466,Safe
+3-VH9UUA,office pagewide printers,1.2393605317973343e-09,Safe
+3-VH9UUA,ops ink supplies,1.031241023567216e-08,Safe
+3-VH9UUA,large format design,0.0,Safe
+3-VH9UUA,consumer peripherals,2.6652072719085354e-08,Safe
+3-VH9UUA,commercial displays (l5),3.732329102433798e-09,Safe
+3-VLMGIE,hps ink supplies,7.179402025262302e-08,Safe
+3-VLMGIE,office non managed,0.1434061527729758,Safe
+3-VLMGIE,ops toner supplies,0.8634448077313169,Safe
+3-VLMGIE,hps toner supplies,1.7706337740604687,Churned
+3-VLMGIE,office managed,0.35439089388860506,Safe
+3-VLMGIE,office pagewide printers,0.0,Safe
+3-VLMGIE,ops ink supplies,10.564631915894926,Safe
+3-VLMGIE,large format design,0.25483159333969135,Safe
+3-VLMGIE,scanners,2.0075086807869496,Safe
+345161TR5D,commercial peripherals,1.7083998898208732,Safe
+345161TR5D,commercial notebooks,1.0049173571438446,Safe
+345161TR5D,mobile workstations,7.3541768277951665,Churned
+345161TR5D,workstations,5.996667062371938,Churned
+345161TR5D,ps lifecycle services,1.4979188110599082,Safe
+345161TR5D,cloud clients,1.634447525626705,Churned
+345161TR5D,commercial dockings,0.10996046747369775,Safe
+345161TR5D,commercial desktops,0.5176749543504693,Safe
+345161TR5D,hps ink supplies,126.15319451848397,Safe
+345161TR5D,office non managed,0.8943962461927035,Churned
+345161TR5D,ops toner supplies,1.406844753220013,Churned
+345161TR5D,hps toner supplies,0.0,Safe
+345161TR5D,office managed,0.0,Churned
+345161TR5D,home laser printers,0.0,Safe
+345161TR5D,office pagewide printers,0.0,Safe
+345161TR5D,ops ink supplies,0.0,Safe
+345161TR5D,home ink printers,0.0,Safe
+345161TR5D,consumer peripherals,0.0,Safe
+345161TR5D,commercial third party options,0.428153045878546,Churned
+345161TR5D,commercial displays (l5),0.36339111943876007,Safe
+345161TR5D,ps managed services,0.0,Safe
+345161TR5D,psg retail solutions,0.0,Safe
+345161TR5D,commercial solutions,0.0,Safe
+345SIUD-16849,commercial peripherals,6.610780115405101,Churned
+345SIUD-16849,commercial notebooks,0.08166625568774356,Safe
+345SIUD-16849,mobile workstations,0.40952262749124574,Safe
+345SIUD-16849,workstations,0.18720980097929102,Safe
+345SIUD-16849,ps lifecycle services,1.0166151228086628,Safe
+345SIUD-16849,cloud clients,0.0,Safe
+345SIUD-16849,commercial dockings,0.7345549283567443,Safe
+345SIUD-16849,commercial desktops,1.574867516460382,Safe
+345SIUD-16849,hps ink supplies,2.0037760317660145,Churned
+345SIUD-16849,office non managed,0.0,Safe
+345SIUD-16849,ops toner supplies,2.0917762077196698,Safe
+345SIUD-16849,hps toner supplies,0.030303485608717838,Safe
+345SIUD-16849,office managed,1.2669532873801743e-08,Safe
+345SIUD-16849,home laser printers,0.0,Safe
+345SIUD-16849,office pagewide printers,2.6123880090898425e-08,Safe
+345SIUD-16849,ops ink supplies,0.473678669489873,Safe
+345SIUD-16849,home ink printers,0.0,Safe
+345SIUD-16849,large format design,2.2382340900188252e-09,Safe
+345SIUD-16849,psg other commercial,4.7007403891205915e-09,Safe
+345SIUD-16849,consumer peripherals,23.153491840476775,Churned
+345SIUD-16849,commercial displays (l5),0.534857365879572,Safe
+345SIUD-16849,psg retail solutions,2.555515594560108e-09,Safe
+345SIUD-19458,commercial notebooks,5.357709913179245e-11,Safe
+345SIUD-19458,mobile workstations,0.0,Safe
+345SIUD-19458,workstations,1.8711877974655696e-09,Safe
+345SIUD-19458,commercial desktops,1.7626711834739306,Churned
+345SIUD-19458,office non managed,0.5498313994505573,Safe
+345SIUD-19458,ops toner supplies,3.6610277247454848,Safe
+345SIUD-19458,hps toner supplies,1.8922785544532328,Safe
+345SIUD-19458,office managed,0.1662415089050675,Safe
+345SIUD-19458,home laser printers,0.09481034823567748,Safe
+345SIUD-19458,print support services,1.7106730550126206,Safe
+345SIUD-19458,large format design,0.1036396097690033,Safe
+345SIUD-19458,psg other commercial,9.88756521413893e-10,Safe
+345SIUD-23225,hps ink supplies,3.4114711783867726,Safe
+345SIUD-23225,ops toner supplies,0.9252478891679443,Safe
+345SIUD-23225,hps toner supplies,0.9049227022699922,Safe
+345SIUD-23225,home laser printers,1.259268345290841e-09,Safe
+345SIUD-23225,ops ink supplies,1.868852459016397,Safe
+345SIUD-23225,large format design,2.4023617025276267,Safe
+345SIUD-23225,consumer gaming,0.0,Safe
+345SIUD-23225,spts,9.640632820865559e-09,Safe
+345SIUD-23225,consumer notebooks,0.07566425611502577,Safe
+345SIUD-23225,consumer peripherals,0.07103455275934117,Safe
+6541I5-1147,commercial displays,0.0,Safe
+6541I5-1147,commercial peripherals,0.0,Safe
+6541I5-1147,commercial notebooks,1.2742071720991406,Churned
+6541I5-1147,ps lifecycle services,1.0807460030085659e-08,Safe
+6541I5-1147,commercial dockings,0.04207825448610631,Safe
+6541I5-1147,commercial desktops,3.7073205204049076e-09,Safe
+6541I5-1147,hps ink supplies,1.8863663863951394,Safe
+6541I5-1147,office non managed,0.9831025553298924,Safe
+6541I5-1147,ops toner supplies,1.396882851203154,Safe
+6541I5-1147,hps toner supplies,1.692843205985123,Safe
+6541I5-1147,office managed,3.766533468941045,Safe
+6541I5-1147,print support services,0.6958952914451196,Safe
+6541I5-1147,office pagewide printers,0.5362032648748795,Safe
+6541I5-1147,ops ink supplies,1.3664696069131455,Safe
+6541I5-1147,large format design,0.8228683484223261,Safe
+6541I5-1147,scanners,0.29398397014355737,Safe
+6541I5-1147,managed print services,0.5236647291661782,Safe
+6541I5-1147,consumer peripherals,1.008477879428746e-07,Safe
+6541WV-1086,commercial peripherals,0.0,Safe
+6541WV-1086,commercial notebooks,2.6304939365654914,Churned
+6541WV-1086,ps lifecycle services,5.457366341802775,Churned
+6541WV-1086,commercial dockings,0.0,Safe
+6541WV-1086,office non managed,4.279590728060853e-15,Safe
+6541WV-1086,ops toner supplies,0.22652474248971488,Safe
+6541WV-1086,office managed,5.723426872825798,Safe
+6541WV-1086,home laser printers,0.0,Safe
+6541WV-1086,print support services,0.4724823139805019,Safe
+6541WV-1086,office pagewide printers,0.5936250516389555,Safe
+6541WV-1086,ps manageability and security,9.577417130458197e-16,Safe
+654VOZFNY,commercial displays,0.6563247980673915,Safe
+654VOZFNY,commercial peripherals,3.0007314425288394,Churned
+654VOZFNY,commercial notebooks,18.368466101601555,Safe
+654VOZFNY,mobile workstations,0.28485363281283144,Safe
+654VOZFNY,workstations,1.1144910587746455,Churned
+654VOZFNY,ps lifecycle services,12.48541636608792,Safe
+654VOZFNY,commercial dockings,0.8280223576417767,Safe
+654VOZFNY,commercial desktops,0.32620591830767526,Safe
+654VOZFNY,home ink consumer printers,0.0,Safe
+654VOZFNY,hps ink supplies,0.09594251596825812,Safe
+654VOZFNY,office non managed,0.2486180203619423,Safe
+654VOZFNY,ops toner supplies,0.7261620864187266,Safe
+654VOZFNY,hps toner supplies,0.732887534914925,Safe
+654VOZFNY,office managed,4.235412283868456e-08,Safe
+654VOZFNY,home laser printers,1.0933786299215813,Safe
+654VOZFNY,office pagewide printers,0.0,Safe
+654VOZFNY,ops ink supplies,2.311795411858072,Churned
+654VOZFNY,home ink printers,0.0,Safe
+654VOZFNY,large format design,0.9812347615619557,Churned
+654VOZFNY,consumer gaming,4.802635905989576,Safe
+654VOZFNY,scanners,3.773313091149462e-09,Safe
+654VOZFNY,consumer displays,0.0,Safe
+654VOZFNY,consumer desktops,0.0,Safe
+654VOZFNY,consumer notebooks,0.5622914362128131,Safe
+654VOZFNY,big tank,1.2162322942634234,Churned
+654VOZFNY,consumer peripherals,1.8235741133767194,Churned
+654VOZFNY,commercial third party options,7.26480676884072e-08,Safe
