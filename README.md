@@ -88,7 +88,7 @@ This project aims to predict **customer churn** for a **printing company** using
 ---
 
 ## **📈 Model Performance Comparison**
-### **Forecasting Models (ARIMA & LSTM)**
+### **Forecasting Models (ARIMA & LSTM and ECDF)**
 ![Model Accuracy](reports/images/model_accuracies_1.png)
 
 ### **Machine Learning Models (XGBoost, RF, LightGBM)**
