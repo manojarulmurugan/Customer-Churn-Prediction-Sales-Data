@@ -71,13 +71,13 @@ This project aims to predict **customer churn** for a **printing company** using
 ### **Customer Churn Distribution**
 ![EDA](reports/images/eda_1.png)
 
-### **Purchase Consistency Score vs Churn**
+### **Customer Churn Distribution and Churn Rate Across Business Units Analysis**
 ![EDA](reports/images/eda_2.png)
 
-### **Churn Rate Across Business Units**
+### **Churn Rate by Country**
 ![EDA](reports/images/eda_3.png)
 
-### **Churn Rate by Country**
+### **Purchase Consistency Score vs Churn**
 ![EDA](reports/images/eda_4.png)
 
 📌 **Insights**:
